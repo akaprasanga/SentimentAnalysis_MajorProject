@@ -1,0 +1,1366 @@
+Tweet	Sentiment
+b'Lawyers Discuss Challenges Posed by Cryptocurrencies During Divorce  #Bitcoin '	n
+b'Bill Gates Says Crypto Has Caused Deaths in a Fairly Direct Way  #Bitcoin '	n
+b'British Man in Amsterdam Allegedly Laundered  in Bitcoin Drug Money  #Bitcoin '	n
+b'Craig Satoshi Wright Sued for Billions  #Bitcoin '	n
+b'Europol: Hardcore Criminals Are Shifting From Bitcoin to Monero, Zcash and Dash  #Bitcoin '	n
+b'Another Thai Bank Shuts Down Accounts of Local Crypto Exchange  #Bitcoin '	n
+b'Chinese Entrepreneur Warns Against Mining and ICO Bans  #Bitcoin '	n
+b'Apple Co-Founder Steve Wozniak s Bitcoin Stolen  #Bitcoin '	n
+b'Hacked Japanese Exchange Considers Capital Tie-Up to Regain Public Trust  #Bitcoin '	n
+b'US Navy Investigators Bust Bitcoin Drug Ring at Naval Academy  #Bitcoin '	n
+b'Thai Bank Terminates Account of Local Cryptocurrency Exchange  #Bitcoin '	n
+b'Nasdaq-Listed Blockchain Companies Hit With New Legal Troubles  #Bitcoin '	n
+b'Bank of America Acknowledges the Threat Posed by Cryptocurrency  #Bitcoin '	n
+b'Japanese Police Reveal 669 Money Laundering Cases Tied to Local Exchanges  #Bitcoin '	n
+b'Finance Ministry Employees Caught Mining Cryptos in Kazakhstan  #Bitcoin '	n
+b'Report Claims 34,000 Ethereum Smart Contracts Are Vulnerable to Bugs  #Bitcoin '	n
+b'New episode! THIS WEEK IN BITCOIN  Bitcoin usage has dropped significantly. How to get crypt '	n
+b'Sneak Peek: Mexico s Regulations for Crypto Exchanges Expected in Weeks  #Bitcoin '	n
+b'46% of Last Year s ICOs Have Failed Already  #Bitcoin '	n
+b'Crypto-Backed SALT Claims $ Billion Backlog, Suspends New Memberships  #Bitcoin '	n
+b'France Cracks Down on Bitcoin Derivatives  #Bitcoin '	n
+b'Four Arrested Following Taiwanese Crypto Robbery  #Bitcoin '	n
+b'Australia s Consumer Watchdog Received 1289 Crypto Complaints in 2017  #Bitcoin '	n
+b'Bug at Japanese Government-Approved Zaif Exchange Let Users Get Free Bitcoin  #Bitcoin '	n
+b'Islamic Republic of Iran to Control and Prevent Growth of Cryptocurrencies  #Bitcoin '	n
+b'Russian Authorities Criticized over Proposed Crypto Regulation  #Bitcoin '	n
+b'Ross Ulbricht Denied Post-Conviction Relief Extension  #Bitcoin '	n
+b'Bitcoin Skeptic Dennis Gartman Duped by Dubious Blockchain Investment  #Bitcoin '	n
+b'Bitcoin Usage Falls to Its Lowest in Months  #Bitcoin '	n
+b'How South Korean Government Prevents Officials from Insider Crypto Trading  #Bitcoin '	n
+b'Tesla Hit by Hackers Who Used its Systems to Mine Cryptocurrency  #Bitcoin '	n
+b'SBI Doesn t Ban Credit Card Crypto Purchases Despite Issuing Warning  #Bitcoin '	n
+b'US Federal Authorities Arrest Man for Selling  Bitcoin  #Bitcoin '	n
+b'Israeli Bitcoin Company Sues Banks for Not Letting it Open Accounts  #Bitcoin '	n
+b'Markets Update: Bullish Sentiment Returns to Crypto Markets  #Bitcoin '	n
+b'Zen Master Steven Seagal Eyes Up a Replacement for Bitcoin  #Bitcoin '	n
+b'Japanese Crypto Exchanges Tap Star Power for Marketing Arms Race  #Bitcoin '	n
+b'Cryptocurrency Regulator Found Dead at His Home in South Korea  #Bitcoin '	n
+b'Pewdiepie Pokes Fun at Youtubers Who Shilled Bitconnect  #Bitcoin '	n
+b'If You ve Been Scammed Out of Cryptocurrency It s Probably Your Fault  #Bitcoin '	n
+b'Academics Claim Crypto-Colonialism Rampant in Puerto Rico  #Bitcoin '	n
+b'Bitmex Research: Tether Not a Ponzi But Susceptible to Shutdown  #Bitcoin '	n
+b'.@SterlinLujan was working at Walmart and facing jail time for drug charges. Now he tours the world speaking about '	n
+b'Bitcoin Divorce Presents New Challenge for Rabbinical Court in Israel  #Bitcoin '	n
+b'Polish Financial Authorities Paid Youtuber to Smear Cryptocurrency  #Bitcoin '	n
+b'Trading Tip `The Wall Drop Tokens That Suffer From Overtokenization  #Bitcoin '	n
+b'SEC Suspends Trading of Three Companies With Ties to Cryptocurrency  #Bitcoin '	n
+b'Ellen DeGeneres Is Down with Bitcoin  #Bitcoin '	n
+b'Trader at Chicago Firm Stole Millions in BTC Faces 20 Year Sentence  #Bitcoin '	n
+b'Mining Crypto In a Browser Is a Complete Waste of Time  #Bitcoin '	n
+b'GPU Shortage Hinders Scientific Research Cryptocurrency Miners Blamed  #Bitcoin '	n
+b'Berkshire Hathaway: Bitcoin Is Disgusting, Detestable, Noxious Poison  #Bitcoin '	n
+ Bitcoin Holders, Claim Your BCP &amp; BCPC Now or the Amount of Bitcoin Parallel Coins Will Decrease '	n
+b'Coincheck Produces Recovery Plan While Investors Flock to Withdraw Funds  #Bitcoin '	n
+b'British Couple Lawyer Up as $840k Cryptocurrency Divorce Heats Up  #Bitcoin '	n
+b'Citibank India to Not Permit Card Customers Purchasing or Trading Crypto  #Bitcoin '	n
+b'Japanese Crypto Investors Flee Capital Gains Taxation of up to 55%  #Bitcoin '	n
+b'Korean Government Answers Petition Against Unfair Cryptocurrency Regulations  #Bitcoin '	n
+b'Bank of Thailand Bans Banks From Cryptocurrency Activities  #Bitcoin '	n
+b'FBI Claims Arrested Cyber Crime Syndicate Co-Founder Medvedev Worth $800M+ in BTC  #Bitcoin '	n
+b'Independent Ratings Agency Alerts Investors About Dangers of Tether  #Bitcoin '	n
+b'United Bitcoin May Be the Most Controversial Fork to Date  #Bitcoin '	n
+b'Bad Code Has Lost $500 Million of Cryptocurrency in Under a Year  #Bitcoin '	n
+b'Faced With Criticism IOTA Fans Try to Bully Growing List of Detractors  #Bitcoin '	n
+b'This 16-Year Old Crypto-App Developer Fights Back Against Reddit Hate  #Bitcoin '	n
+b'Roles of Regulators Decided in India, Rules on Bitcoin Coming Soon  #Bitcoin '	n
+b'Japan Cracks Down on Foreign ICO Agency Operating Without License  #Bitcoin '	n
+b'Cryptocurrency Exchange Bitgrail Suspends Operations After Losing $170 Million of Nano  '	n
+b'Russia s Largest Bank Caught Employees Mining For Crypto  #Bitcoin '	n
+b'Hong Kong Cracks Down on Securities Tokens 7 Crypto Exchanges Targeted  #Bitcoin '	n
+b'Cryptocurrency Trader Sues T-Mobile for Giving Hackers Control of His Account  #Bitcoin '	n
+b'SEC to Focus on Cryptocurrency and ICO Fraud as Top Priority  #Bitcoin '	n
+b'Thai Government Cannot Stop Crypto Use Regulatory Framework Expected in a Month  #Bitcoin '	n
+b'Korean Prime Minister: Closing Down Crypto Exchanges Not a Serious Consideration  #Bitcoin '	n
+b'Seele ICO Sets Up Emergency Response Team After $ Fraud  #Bitcoin '	n
+b'Korean Supreme Court to Judge Whether Crypto Regulations Are Unconstitutional  #Bitcoin '	n
+b'Most Crypto Traders in South Korea Remain Anonymous Despite Regulations  #Bitcoin '	n
+b'Russian Bankruptcy Court Orders Debtor to Disclose Cryptocurrency Holdings  #Bitcoin '	n
+b'Australia to Ban Bitcoin Gambling  #Bitcoin '	n
+b'Intelligence: Pyongyang Trying to Steal Cryptos before Pyeongchang Olympics  #Bitcoin '	n
+b'Major British Credit Card Issuers Ban Customers From Buying Cryptocurrencies  #Bitcoin '	n
+b'Most Korean Crypto Exchanges Unable to Use Government-Mandated System  #Bitcoin '	n
+b'Markets Update: BTC Prices Suffer from a 65% Loss Since December  #Bitcoin '	n
+b'Ukrainian Law May Separate Mining from Cryptocurrencies  #Bitcoin '	n
+b'Markets Update: Long-Term Signals Suggest Bullish Bounce Imminent for BTC  #Bitcoin '	n
+b'China Censors Cryptocurrency Ads on Search Engines and Social Media  #Bitcoin '	n
+b'Large European Power Company Will Not Sell Electricity to Crypto-Miners  #Bitcoin '	n
+b'Bank of America Becomes the Latest Credit Card-Issuer to Ban Bitcoin  #Bitcoin '	n
+b'Trading Tip `The Wall I Was Wrong  #Bitcoin '	n
+b'Ledger Addresses Man in the Middle Attack That Threatens Millions of Hardware Wallets  '	n
+b'India s Finance Minister Confirms Crypto Not Recognized as Legal Tender, Media Panics  '	n
+b'Japanese Financial Authority Inspecting 32 Cryptocurrency Exchanges  #Bitcoin '	n
+b'Dead again? In Reality Bitcoin Is Up 729% Since Last February  #Bitcoin '	n
+b'Leaked Document Appears to Show NSA Infiltrated Cryptos, Tor, VPN  #Bitcoin '	n
+b'Japan Unfazed By Recent Exchange Hack Realizing Cryptocurrencies Not to Blame  #Bitcoin '	n
+b'Senate of Nigeria Launches Probe of Bitcoin Trading in the Country  #Bitcoin '	n
+b'Facebook Bans Cryptocurrency Ads  #Bitcoin '	n
+b'South Korea Finds Nearly $600 Million in Crypto Crime  #Bitcoin '	n
+b'Europol and Interpol to Increase Measures Against BTC Laundering and Terrorism Financing  '	n
+b'South Korea Ends Anonymous Cryptocurrency Trading Today  #Bitcoin '	n
+b'Japanese Crypto Exchanges Strengthen Self-Regulation Following Coincheck Hack  #Bitcoin '	n
+b'Why Venezuela s New National Cryptocurrency El Petro Will Fail  #Bitcoin '	n
+b'Lawyers Are Taking Payment in Bitcoin Despite Conflict of Interest Concerns  #Bitcoin '	n
+b'Discover Card s 44 Million Customers Denied Crypto  #Bitcoin '	n
+b'Coincheck Halts Operations Amidst Hacking Rumors After $723 Million Withdrawn  #Bitcoin '	n
+b'All Major Korean Cryptocurrency Exchanges Fail Privacy Tests 30 Days to Improve  #Bitcoin '	n
+b'Analyst: IOTA Sharply Overvalued Due to Overwhelming Evidence of Serious Flaws  #Bitcoin '	n
+b'Stripe is Withdrawing Support for Bitcoin Payments  #Bitcoin '	n
+b'SEC Chairman Signals a Storm Coming for Fly-by-Night Blockchain ICOs  '	n
+b'New Research: 10% of Funds Raised in ICOs Lost or Stolen  #Bitcoin '	n
+b'Nvidia Tries to Limit GPU Sales to Cryptocurrency Miners  #Bitcoin '	n
+b'South Korean Card Companies Block Transactions to Overseas Cryptocurrency Exchanges  #Bitcoin '	n
+b'Northern European Bank Nordea Confirms Bitcoin Ban for Employees  #Bitcoin '	n
+b'Tezos Swiss Foundation Concept is Old, Inflexible and Stupid  #Bitcoin '	n
+b'IOTA Attacked for Subpar Wallet Security Following $4m Hack  #Bitcoin '	n
+b'UK Bitcoiners Might Have Tax Loophole  #Bitcoin '	n
+b'Senior Figures Clash as the Tezos ICO War Heats Up  #Bitcoin '	n
+b'Indian Crypto Traders Getting Notices From Tax Authority Due to Unreported Investments  '	n
+b'The Rise and Fall of Ripple is a Case Study in Mass Hysteria  #Bitcoin '	n
+b'Onecoin Offices Raided in Sofia, Servers Shut Down  #Bitcoin '	n
+b'Markets Update: Cryptocurrency Prices Rebound But Uncertainty Still Lingers  #Bitcoin '	n
+b'US Regulator Sues Three Companies For Cryptocurrency Fraud  #Bitcoin '	n
+b'Cryptoruble Delayed Russian Central Bank Worried It Could Bypass Regulations  #Bitcoin '	n
+b'US Sheriffs Welcome $ Million Windfall After Students Plead Guilty to Stealing 5,400 BTC  '	n
+b'South Korean Officials Caught Trading On Insider Knowledge of Crypto Regulations  #Bitcoin '	n
+b'Visa CEO: Bitcoin is Not a Payment System  #Bitcoin '	n
+b'Ethereum Network Congestion Forces Exchanges to Halt Withdrawals  #Bitcoin '	n
+b'Bitconnect Shuts Down Its Exchange Citing a String of Excuses  #Bitcoin '	n
+b'Hackers Steal $400k from Users of a Stellar Lumen (XLM) Web Wallet  #Bitcoin '	n
+b'China Central Bank Identifies 3,000 Fake Blockchain Platforms Law Enforcement to Coordinate Against Cybercrime '	n
+b'Companies Deny Having Bitcoin or Blockchain Services Amid China s Clampdown  #Bitcoin '	n
+b'Some UK Mortgage Lenders Refuse to Serve Bitcoin Investors  #Bitcoin '	n
+b'The Futility of Government Bans Bitcoin Always Finds a Way  #Bitcoin '	n
+b'Metropolitan Bank Ceases Cryptocurrency-Related International Wires  #Bitcoin '	n
+b'Bittrex Delisting Policy Leaves Cryptocurrencies Out in the Cold  #Bitcoin '	n
+b'Bank Indonesia: Do Not Sell, Buy, Trade Cryptocurrency  #Bitcoin '	n
+b'Kucoin Issues a Warning After Bitcoin Diamond Soars 40x and Then Crashes  #Bitcoin '	n
+b'Brazil Regulator Prohibits Funds from Investing in Cryptocurrencies  #Bitcoin '	n
+b'China s Regulatory Authority Warns About Risks of Initial Miner Offerings  #Bitcoin '	n
+b'Sweden s Giant Bank Nordea Allegedly Forbids Employees from Owning or Trading Cryptocurrency '	n
+b'Exchange Problems Mount at Kraken and Coinbase but Bitfinex Reopens Registrations for 10k+ Deposits '	n
+b'Paul Krugman Is Excited to See Bitcoin Have Issues  #Bitcoin '	n
+b'Strict Regulations Force South Korean Banks to Stop Servicing Cryptocurrency Exchanges  '	n
+b'Singapore to Extend Regulatory Mandate Regarding Cryptocurrencies  #Bitcoin '	n
+b'The Mystery of the Lost Bulgarian Bitcoins Sparks Questions Again  #Bitcoin '	n
+b'India s Bitcoin Exchange Koinex Suffers From Bank Blocking Crypto Accounts  #Bitcoin '	n
+b'Markets Update: Cryptos Look for Relief After South Korea Mainstream Media FUD Causes Losses '	n
+b'Bitcoin Investor Sues Huobi Over 400,000 in Losses  #Bitcoin '	n
+b'Korean Regulators Launch Investigations of Bithumb and Coinone Crypto Exchanges  #Bitcoin '	n
+b'Miami Bitcoin Conference Stops Accepting Bitcoin Due to Fees and Congestion  #Bitcoin '	n
+b'Venezuela s Oil-Backed Cryptocurrency Declared Illegal  #Bitcoin '	n
+b'JP Morgan Jamie Dimon Regrets his Bitcoin Is a Fraud Statement  #Bitcoin '	n
+b'Hong Kong Hacker Arrested in Blackmail for Bitcoin Case  #Bitcoin '	n
+b'Microsoft Has Stopped Accepting Bitcoin Deposits  #Bitcoin '	n
+b'Litigation Filed in India for Immediate Intervention of the Flow of Bitcoins  #Bitcoin '	n
+b'Electrum Moves to Patch Bug That Left Thousands of Bitcoin Wallets Exposed  #Bitcoin '	n
+b'Crypto Card Issuers Seek Solutions in the Wake of a European Ban  #Bitcoin '	n
+b'Coinbase Withdrawal Delays Leave Users Frustrated, Crying Foul  #Bitcoin '	n
+b'Bitcoin Cash Reddit Tip App Users Hacked for Thousands  #Bitcoin '	n
+b'Man s Life Savings Stolen from Hardware Wallet Supplied by a Reseller  #Bitcoin '	n
+b'British Bank Says No to Crypto Firms from Gibraltar  #Bitcoin '	n
+b'Mt. Gox Bitcoin Missing In relation to Mysterious Death of Exchange CEO  #Bitcoin '	n
+b'Despite Multiple Government Warnings, Indians Flock to Crypto Exchanges  #Bitcoin '	n
+b'Visa Veto Leaves Several European Cryptocurrency Cards Locked Out  #Bitcoin '	n
+b'Binance Exchange Disables New User Registrations  #Bitcoin '	n
+b'Bitconnect Slapped with Securities Emergency Cease and Desist Order  #Bitcoin '	n
+b'Bittrex Wallets Are Taken Offline as Companies Scramble to Patch the Intel Bug  #Bitcoin '	n
+b'Ripple Gateways Can Freeze Users Funds at Any Time  #Bitcoin '	n
+b'Bitcoin Mining ICO Giga Watt is Being Sued for Securities Fraud  #Bitcoin '	n
+b'Bitcoin Fees Are Falling Amidst Greater Segwit Adoption  #Bitcoin '	n
+b'Putin Wants to Use Cryptoruble to Evade Sanctions But Bank of Russia Skeptical  #Bitcoin '	n
+b'South Korea Expected to End Anonymous Crypto Trading by January 20  #Bitcoin '	n
+b'Privacy Coin Verge is Allegedly Leaking Users IP Addresses  #Bitcoin '	n
+b'Markets Update: BTC Value Against the Dollar Continues to Slide  #Bitcoin '	n
+b'Russian Crypto Expert Released After Allegedly Being Kidnapped  #Bitcoin '	n
+b'Australian Freeze: Big Aussie Banks Denying Bitcoiners  #Bitcoin '	n
+b'South Korea Outlines New Attempts to Dampen Crypto Markets  #Bitcoin '	n
+b'Israeli Regulator Investigating Public Bitcoin Company for False Claims  #Bitcoin '	n
+b'Russia Unveils Proposed Regulation Putting Limits on ICOs and Investors  #Bitcoin '	n
+b'Russian Reports say Crypto Entrepreneur Pavel Lerner Kidnapped in Kiev  #Bitcoin '	n
+b'Major Korean Banks Drop Bitcoin Point Swap Services  #Bitcoin '	n
+b'One Week On from the Etherdelta Hack, Funds Are Still Being Stolen  #Bitcoin '	n
+b'Opera Browser to Include Built-In Anti-Bitcoin Mining Feature  #Bitcoin '	n
+b'Chinese Programmer Arrested Over 20 Million Bitcoin Theft  #Bitcoin '	n
+b'South Korean Prosecutor Fights to Confiscate Bitcoins from Criminal Proceeds  #Bitcoin '	n
+b'Bitcoin Network Fees Are Irritating Cryptocurrency Proponents  #Bitcoin '	n
+b'Coinbase Accused of Technical Incompetence After Hoarding Millions of UTXOs  #Bitcoin '	n
+b'The SEC Crackdown on Suspicious Cryptocurrencies Is Getting Serious  #Bitcoin '	n
+b'Bitcoin Crashes! Bitcoin s Dead! Bitcoin s Over! Or Is It? A Brief History of Deaths  '	n
+b'A Ledger X Bitcoin Contract is Still Pegged for $50K Amid This Week s Price Decline  #Bitcoin '	n
+b'Forum Wars: r/btc Mod Hacked and r/Bitcoin Continues to Censor  #Bitcoin '	n
+b'Wikileaks Founder Responds to Banking Blockade : Use Cryptocurrencies  #Bitcoin '	n
+b'Two Weeks After Losing $60 Million in Bitcoin, Nicehash Are Back  #Bitcoin '	n
+b'Investors Call Foul Play as Coinbase Parries Insider Trading Accusations  #Bitcoin '	n
+b'US Blames Bitcoin Ransomware Attack Wannacry on North Korea  #Bitcoin '	n
+b'Korean Cryptocurrency Exchange Youbit to Close After Second Hack in a Year  #Bitcoin '	n
+b'Russian Crypto News Outlet Shook Down by the Ukrainian Security Service  #Bitcoin '	n
+b'Massachusetts Joins List of US States Hostile to Bitcoin  #Bitcoin '	n
+b'The Most Pointless Cryptocurrency Tokens Ever Invented  #Bitcoin '	n
+b'European Union Terror Fears Drive New Crackdown on Bitcoin Across Member States  #Bitcoin '	n
+b'Bitcoiners Increasingly Targeted by Police as Prices Yield Large Asset Forfeiture Gains  '	n
+b'Bitfinex Critic Claims to be Organizing Class Action Lawsuit Against Ifinex  #Bitcoin '	n
+b'New York Credit Card Scammer Allegedly Sent Bitcoin to ISIS  #Bitcoin '	n
+b'Man Allegedly Kidnaps Friend at Gunpoint and Steals $ of Cryptocurrency  #Bitcoin '	n
+b'South Korean Banks Drop Crypto Accounts as Government Plans a Ban  #Bitcoin '	n
+b'Starbucks Customer Has His Laptop Hijacked for Cryptocurrency Mining  #Bitcoin '	n
+b'Markets Update: Bitcoin s Price Takes a Quick Dive  #Bitcoin '	n
+b'Tax Investigators Raid Bitcoin Exchanges Across India  #Bitcoin '	n
+b'SK Regulator Fines Exchange Operator Bithumb 60 Million Won for Leaking Customer Data  '	n
+b'Israeli Regulator Won t Allow Bitcoin Firms Be Included in Stock Indices  #Bitcoin '	n
+ 18+ Content on the Blockchain: the Okoin System Launches ICO  #Bitcoin '	n
+b'Two Days of Cboe s Bitcoin Futures Show Intense Volume Fluctuations  #Bitcoin '	n
+b'Canadian Court Sends Perpetrator of Plexcoin ICO Scam to Jail  #Bitcoin '	n
+b'Leaked Documents, Withheld Funds, and Altcoin Pumps: Bittrex Faces Increasing Scrutiny  '	n
+b'South Korea Clarifies Position After Reports of Possible Ban on All Crypto Transactions  '	n
+b'Parity Calls for Ethereum Hard Fork to Reverse $230 Million Bug  #Bitcoin '	n
+b'Ludicrous Headlines About Bitcoin Mining Will Kill Us All  #Bitcoin '	n
+b'After Dramatic Price Swings, Coinbase Issues Plea to Investors  #Bitcoin '	n
+b'Danish Woman Arrested After Allegedly Paying for a Fake Darknet Hitman With Bitcoin  #Bitcoin '	n
+b'Russian Regulators Draft Law to Restrict Crypto Mining, Payments, and Token Sales  #Bitcoin '	n
+b'Deutsche Bank: Bitcoin is One of the Greatest Market Threats in 2018  #Bitcoin '	n
+b'Bitfinex Experiences Withdrawal Difficulties  #Bitcoin '	n
+b'Bankers Have Shut Down All of Bulgaria s Bitcoin Exchanges  #Bitcoin '	n
+b'Heading into Sunday s Bitcoin Futures, Big Banks Refuse Customers Access  #Bitcoin '	n
+b'Bitcoin Gamers Dropped from Steam Due to Fees and Volatility  #Bitcoin '	n
+b'China s Official Press Agency: 107 Altcoins Under Investigation for Financial Crimes  '	n
+b'Nicehash Mining Pool Allegedly Hacked Accused of Losing 4449 BTC (US$60M)  #Bitcoin '	n
+b'Over 10,000 People Have Downloaded Fake Cryptocurrency Apps  #Bitcoin '	n
+b'Your Stupidity, Your Responsibility  #Bitcoin '	n
+b'Bitfinex Slaps a Lawsuit on Its Nemesis as the Tether Squabble Gets Ugly  #Bitcoin '	n
+b'Azerbaijan Rejects Crypto as Means of Payment  #Bitcoin '	n
+b'US Government s New Cyber Unit Files its First Charges Against ICO Scam  #Bitcoin '	n
+b'Three Kenyans Face Felony Charges for Selling Bitcoin to a Bank Robber  #Bitcoin '	n
+b'Dilemma for Ukrainian Regulators: Bitcoins Cannot Be Recognized as Money, Legal Tender, Currency or Securities '	n
+b'Proposed  Legislation May Criminalize Those Who Conceal Bitcoin  #Bitcoin '	n
+b'The Satoshi Revolution Chapter 3: Bad News: Government Takes Cryptocurrency Seriously (Part2) '	n
+b'Indonesian Media Urge Bitcoiners to Cash In Ahead of Crypto Ban  #Bitcoin '	n
+b'Turkey Religious Ministry: Bitcoin Not Appropriate to Buy or Sell for Islamic Believers  '	n
+b'White House Monitoring The Situation While Study Shows Illicit Use of Bitcoin Has Dropped  '	n
+b'China s Financial Channel Reports Huobi Violates Spirit of PBOC s Document  #Bitcoin '	n
+b'South Korea Leader Fears Bitcoin Leads Youth to Drugs, Mexico Ready for Crypto  #Bitcoin '	n
+b'How Chinese Blockchain Projects Raise Funds Despite the ICO Ban  #Bitcoin '	n
+b'Bitfinex Faces Further Scrutiny Over Tether Liquidity Concerns  #Bitcoin '	n
+b'Nigerian NDIC Warns That Cryptocurrencies Lack Consumer Protections  #Bitcoin '	n
+b'Russia s VTB Bank s CEO Very, Very Dangerous to Invest in Cryptocurrencies  #Bitcoin '	n
+b'Bittrex Issues a Warning About Cryptocurrency Pump and Dumps  #Bitcoin '	n
+b'Former SEC Commissioner: Initial Coin Offerings Open and Notorious Violation of Law  '	n
+b'United Arab Emirates Fund CEO Throws Shade at JP Morgan s Jamie Dimon  #Bitcoin '	n
+b'The World s Worst Named Cryptocurrencies  #Bitcoin '	n
+b'Reports of Israeli ICO Ban Are Fake News, Entrepreneurs Look to Create Crypto Nation  '	n
+b'A Hacker Gained Access to the Bitcoin Gold Windows Wallet Github  #Bitcoin '	n
+b'Deep Web Roundup: Alphabay Suspect Dies, Monero Climbs, and 126m Verge Lost  #Bitcoin '	n
+b'Questions Mount as Bitfinex Stay Silent in the Wake of the Tether Hack  #Bitcoin '	n
+b'Morocco Threatens Bitcoiners, Announces Ban  #Bitcoin '	n
+b'Forum Wars: r/Bitcoin Mods Accused of Hacking and Vote Manipulation  #Bitcoin '	n
+b'Russian Minister States Cryptocurrencies Will Not Be Legally Recognized in Russia  #Bitcoin '	n
+b'Chinese Ethereum NEO Drops After Investor Relations Disaster  #Bitcoin '	n
+b'Exchanges Suspend USDT Transactions After $30 Million Tether Treasury Wallet Hack  #Bitcoin '	n
+b'A Visit to a Bitcoin Mining Farm in Sichuan, China Reveals Troubles Beyond Regulation  '	n
+b'Hundreds of Bitcoin Cash Are Stuck in Segwit Addresses But There Might Be a Way to Get Them Back '	n
+b'Hong Kong Bitcoin Businesses are Frozen Out of Banking  #Bitcoin '	n
+b'Chinese Bitcoin Miners Explore Relocating Abroad Amid Fears of Crackdown  #Bitcoin '	n
+b'This Week in Bitcoin: Failed Forks, Atomic Swaps, and a Little Trouble in Big China  #Bitcoin '	n
+b'China s Central Television Warns of the Risks of Cryptocurrency OTC Trade  #Bitcoin '	n
+b'Five Countries Where Bitcoin is Illegal  #Bitcoin '	n
+b'Police Bust Turkish Gang That Kidnapped Wealthy Bitcoin Holders  #Bitcoin '	n
+b'Parity Disable Multi-Sig in the Wake of Bug That Nuked $168 Million Ether  #Bitcoin '	n
+b'Bitcoin Gold Developer Under Scrutiny For Allegedly Hiding Mining Code  #Bitcoin '	n
+b'FCA Issues Warning Regarding Cryptocurrency CFDs  #Bitcoin '	n
+b'Are 2017 s Network Attacks Real or Are Bitcoiners Growing Paranoid?  #Bitcoin '	n
+b'Police Posted at Bithumb as Users File Lawsuit After Server Outage Costs Millions  #Bitcoin '	n
+b'Quantum Physics and Astrology Predict Bad Things For Bitcoin  #Bitcoin '	n
+b'Markets Update: Cryptocurrencies See Volatile Prices After Canceled Fork  #Bitcoin '	n
+b'North Korean Hackers Ramp Up Malware Attacks Against Bitcoin Exchange Staff  #Bitcoin '	n
+b'Governments Not Taking Bitcoin Disruption Lightly, Says Citigroup CEO  #Bitcoin '	n
+b'India Drug Cartel Uses Bitcoins, Two Arrested: A Closer Look at Mainstream Media Libel  '	n
+b'Silk Road Secret Service Agent Sentenced for Laundering Money While Prosecuting Ross Ulbricht '	n
+b'Chicago Options Exchange Getting the Bitcoin Bug: We Believe says President  #Bitcoin '	n
+b'Nepal Continues Crackdown, Two More Bitcoiners Arrested  #Bitcoin '	n
+b'Two Companies File for Blockchain ETFs  #Bitcoin '	n
+b'Russian Economy Lost 18 Billion Rubles This Year Due to Lack of ICO Regulation  #Bitcoin '	n
+b'Pastor Sentenced to Five Years in  Case  #Bitcoin '	n
+b'Bitpay to Suspend All Services During the Segwit2x Hard Fork  #Bitcoin '	n
+b'Former US Presidential Candidate Ron Paul: Government should stay out of Bitcoin  #Bitcoin '	n
+b'Michigan Localbitcoins User Charged with Unlicensed Money Transmitting  #Bitcoin '	n
+b'Vietnam s Central Bank Seeks to Ban Bitcoin Activities  #Bitcoin '	n
+b'Kansas Governmental Ethics Commission Forbids Bitcoin Campaign Donations To Politicians  '	n
+b'Coinbase Offers $50,000 Hack the World Bug Bounty  #Bitcoin '	n
+b'National Bank of Kazakhstan Proposes to Restrict the Exchange and Mining of Cryptocurrencies '	n
+b'AMD Share Price Drops Amidst Expectations Mining Hardware Demand Will Level Off  #Bitcoin '	n
+b'Central Bank of Singapore Sees No Reason to Regulate Cryptocurrencies  #Bitcoin '	n
+b'Distributed Denial of Service Attack Greets Forked Bitcoin Gold on First Day  #Bitcoin '	n
+b'Bank of Korea Criticized for Poor Crypto Research, Does Not Recognize Bitcoin as Currency  '	n
+b'FCA Accuses Banks of Anti-Competitive Practices Towards DLT Start-Ups  #Bitcoin '	n
+b'Saudi Central Bank Says Cryptocurrency Industry is Not Mature Enough to Warrant Regulation '	n
+b'Life After China s Exchange Ban an Interview with Hong Kong-based Binance CEO Zhao  '	n
+b'Venezuelans Risk Energy Theft Arrest and Police Extortion Mining Bitcoin  #Bitcoin '	n
+b'Bitcoin Businesses Refused Accounts as UK Banks Consolidate Power  #Bitcoin '	n
+b'Markets Update: Bitcoin Price Drops a Touch After Reaching New Highs  #Bitcoin '	n
+b'Wild Case of Religion, Bitcoin, Hacking, Ends in Prison Sentences  #Bitcoin '	n
+b'Chinese Miners Sell Hardware Amidst Regulatory Uncertainties  #Bitcoin '	n
+b'Bitfinex to Terminate Services for  Retail Customers by November 9  #Bitcoin '	n
+b'Bernanke: Eventually Governments Will Take Any Action They Need to Prevent Bitcoin  '	n
+b'PNC Bank Threatens to Close Customer s Account for Buying Bitcoin  #Bitcoin '	n
+b'Cryptocurrencies Expected to Cause Massive Disruptions IMF Managing Director  #Bitcoin '	n
+b'Russia to Block Access to Cryptocurrency Exchange Websites  #Bitcoin '	n
+b'Markets Update: The Bitcoin Price Rocket Blasts Off Again  #Bitcoin '	n
+b'Malaysia s Central Bank Signals Year-End Bitcoin Ban  #Bitcoin '	n
+b'Bitcoin Illegal in Nepal? Police Arrest Seven Individuals for Trading Operations  #Bitcoin '	n
+b'Mexico Proposes Legislation to Tame Bitcoin  #Bitcoin '	n
+b'South Korean Crypto Community to Push Back Against ICO Ban  #bitcoin '	n
+b'Chinese Media Calls for Zero Tolerance on Crimes Involving Cryptocurrencies  #Bitcoin '	n
+b'Government Head of IT Department Fired for Mining Bitcoin Using State-Owned Computers in Crimea '	n
+b'A Few Chinese Bitcoin Exchanges Bid Farewell to the Crypto-Community  #Bitcoin '	n
+b'IMF Chief Lagarde Tells Central Bankers: Not Wise to Dismiss Virtual Currencies  #Bitcoin '	n
+b'North Korea Accused of Hacking South Korean Exchanges  #northkorea '	n
+b'A Closer Look at the Suspicious Activity Involved With the Bitcoin Gold Fork  #Bitcoin '	n
+b'South Korea Bans All Initial Coin Offerings  #Bitcoin '	n
+b'Macau Bans Banks From Providing Financial Services to Cryptocurrency Companies  #Bitcoin '	n
+b'Bank of Russia Opposes Cryptocurrency Legalization, Worried About Loss of Control  #Bitcoin '	n
+b'Expert: Seven Reasons Why Chinese Regulators Shut Down Bitcoin Exchanges  #Bitcoin '	n
+b'Markets Update: Cryptocurrency Prices Dip Significantly Hitting a 30-Day Low  #Bitcoin '	n
+b'Bitcoin Exchange BTCC to Halt Trading as Regulatory Storm Brews in China  #Bitcoin '	n
+b'Russian Men Charged With Illegal Banking for Unlicensed Bitcoin Trading  #Bitcoin '	n
+b'Four ICO Startups Refund Investors Hours After China Bans Token Sales  #Bitcoin '	n
+b'Chinese Blockchain Conferences Cancelled In Fear of ICO Crackdown  #Bitcoin '	n
+b'Australian Government: Bitcoin Is Causing Organized Crime to Proliferate  #Bitcoin '	n
+b'SEC Warns of ICO Schemes After Suspending 4 Firms  #Bitcoin '	n
+b'Telegram Founder Believes Bitcoin Will Undermine US Hegemony  #Bitcoin '	n
+b'Bank of Mexico Rejects Virtual Currency as Legal Classification for Bitcoin  #Bitcoin '	n
+b'South African Officials Consider National Cryptocurrencies Too Risky  #Bitcoin '	n
+b'ICOs May Be Subject to Securities Laws in Canada  #Bitcoin '	n
+b'North Korea Could Be Targeting Bitcoin Exchanges in Hacking Attack  #Bitcoin '	n
+b'Former paypal COO David Sacks Discusses Bitcoin Argues ICOs Are Threat to VCs  #Bitcoin '	n
+b'Game of Thrones Hackers Demand $ in Bitcoin From HBO or Spoiler Alert Galore  #Bitcoin '	n
+b'Bitfinex Drops US Customers  #Bitcoin '	n
+b'South Korean Shopping Mall Prohibits Bitcoin Mining  #Bitcoin '	n
+b'After FBI Takedown: BTC-e Exchange Reveals They Still Possess Databases and Wallets  #Bitcoin '	n
+b'Blockchain Data Reveals Someone Is Trying to Slow Down Bitcoin Cash  #Bitcoin '	n
+b'Australian Trader Loses $430K at BTC-e: Nothing Illegal Tied to My Funds  #Bitcoin '	n
+b'Panel Recommends Indian Government Take Immediate Steps to Stop Bitcoin Use  #Bitcoin '	n
+b'Coinbase Customers Suffer from Delays as Withdrawal Period Ends  #Bitcoin '	n
+b'Lawyers Discuss Challenges Posed by Cryptocurrencies During Divorce  #Bitcoin '	n
+b'Bill Gates Says Crypto Has Caused Deaths in a Fairly Direct Way  #Bitcoin '	n
+b'British Man in Amsterdam Allegedly Laundered  in Bitcoin Drug Money  #Bitcoin '	n
+b'Scammers Are Ruining Crypto Twitter and Twitter Is to Blame  #Bitcoin '	n
+b'Craig Satoshi Wright Sued for Billions  #Bitcoin '	n
+b'Europol: Hardcore Criminals Are Shifting From Bitcoin to Monero, Zcash and Dash  #Bitcoin '	n
+b'Another Thai Bank Shuts Down Accounts of Local Crypto Exchange  #Bitcoin '	n
+b'Chinese Entrepreneur Warns Against Mining and ICO Bans  #Bitcoin '	n
+b'Apple Co-Founder Steve Wozniak s Bitcoin Stolen  #Bitcoin '	n
+b'Hacked Japanese Exchange Considers Capital Tie-Up to Regain Public Trust  #Bitcoin '	n
+b'US Navy Investigators Bust Bitcoin Drug Ring at Naval Academy  #Bitcoin '	n
+b'Bitpay Bans Payments to Merchants of Explicit Content, Cloud-Mining and Gambling  #Bitcoin '	n
+b'Poland Refutes Reports of Its Interest in Venezuela s Oil-Backed Cryptocurrency  #Bitcoin '	n
+b'People Who Don t Understand Cryptocurrency Should Probably Stop Writing About It  #Bitcoin '	n
+b'Thai Bank Terminates Account of Local Cryptocurrency Exchange  #Bitcoin '	n
+b'Nasdaq-Listed Blockchain Companies Hit With New Legal Troubles  #Bitcoin '	n
+b'Bank of America Acknowledges the Threat Posed by Cryptocurrency  #Bitcoin '	n
+b'Finance Ministry Employees Caught Mining Cryptos in Kazakhstan  #Bitcoin '	n
+b'Report Claims 34,000 Ethereum Smart Contracts Are Vulnerable to Bugs  #Bitcoin '	n
+b'New episode! THIS WEEK IN BITCOIN  Bitcoin usage has dropped significantly. How to get crypt '	n
+b'Four Arrested Following Taiwanese Crypto Robbery  #Bitcoin '	n
+b'Australia s Consumer Watchdog Received 1289 Crypto Complaints in 2017  #Bitcoin '	n
+b'Islamic Republic of Iran to Control and Prevent Growth of Cryptocurrencies  #Bitcoin '	n
+b'Tesla Hit by Hackers Who Used its Systems to Mine Cryptocurrency  #Bitcoin '	n
+b'SBI Doesn t Ban Credit Card Crypto Purchases Despite Issuing Warning  #Bitcoin '	n
+b'US Federal Authorities Arrest Man for Selling  Bitcoin  #Bitcoin '	n
+b'Cryptocurrency Regulator Found Dead at His Home in South Korea  #Bitcoin '	n
+b'.@SterlinLujan was working at Walmart and facing jail time for drug charges. Now he tours the world speaking about '	n
+b'Indians Look to Buy Bitcoin Overseas as Regulations Tighten  #Bitcoin '	n
+b'Bitcoin Divorce Presents New Challenge for Rabbinical Court in Israel  #Bitcoin '	n
+b'Polish Financial Authorities Paid Youtuber to Smear Cryptocurrency  #Bitcoin '	n
+b'SEC Suspends Trading of Three Companies With Ties to Cryptocurrency  #Bitcoin '	n
+b'Ellen DeGeneres Is Down with Bitcoin  #Bitcoin '	n
+b'Trader at Chicago Firm Stole Millions in BTC Faces 20 Year Sentence  #Bitcoin '	n
+b'US Regulator Warns Against Pump-and-Dumps and Advises How to Buy Crypto  #Bitcoin '	n
+b'Mining Crypto In a Browser Is a Complete Waste of Time  #Bitcoin '	n
+b'Berkshire Hathaway: Bitcoin Is Disgusting, Detestable, Noxious Poison  #Bitcoin '	n
+ Bitcoin Holders, Claim Your BCP &amp; BCPC Now or the Amount of Bitcoin Parallel Coins Will Decrease '	n
+b'Citibank India to Not Permit Card Customers Purchasing or Trading Crypto  #Bitcoin '	n
+b'Korean Government Answers Petition Against Unfair Cryptocurrency Regulations  #Bitcoin '	n
+b'Bank of Thailand Bans Banks From Cryptocurrency Activities  #Bitcoin '	n
+b'FBI Claims Arrested Cyber Crime Syndicate Co-Founder Medvedev Worth $800M+ in BTC  #Bitcoin '	n
+b'United Bitcoin May Be the Most Controversial Fork to Date  #Bitcoin '	n
+b'Bad Code Has Lost $500 Million of Cryptocurrency in Under a Year  #Bitcoin '	n
+b'Faced With Criticism IOTA Fans Try to Bully Growing List of Detractors  #Bitcoin '	n
+b'This 16-Year Old Crypto-App Developer Fights Back Against Reddit Hate  #Bitcoin '	n
+b'KYC Requirements Are Making ICOs Riskier, Not Safer  #Bitcoin '	n
+b'The 65 Percent Price Dip Has Made Bitcoin Whales A lot More BTC  #Bitcoin '	n
+b'New Jersey Sends Cease &amp; Desist to Crypto-Investment Pool  #Bitcoin '	n
+b'Japan Cracks Down on Foreign ICO Agency Operating Without License  #Bitcoin '	n
+b'Internet Pioneer John Perry Barlow Who Influenced Assange &amp; Snowden Dead at 70  #Bitcoin '	n
+b'Nuclear Engineers Arrested for Mining Cryptocurrency Using Government Supercomputer  #Bitcoin '	n
+b'Cryptocurrency Exchange Bitgrail Suspends Operations After Losing $170 Million of Nano  '	n
+b'Russia s Largest Bank Caught Employees Mining For Crypto  #Bitcoin '	n
+b'Hong Kong Cracks Down on Securities Tokens 7 Crypto Exchanges Targeted  #Bitcoin '	n
+b'NY Regulator Demands Vigilance Against Market Manipulation from Bitlicense Firms  #Bitcoin '	n
+b'Cryptocurrency Trader Sues T-Mobile for Giving Hackers Control of His Account  #Bitcoin '	n
+b'Korean Supreme Court to Judge Whether Crypto Regulations Are Unconstitutional  #Bitcoin '	n
+b'World Central Banker to Central Banks: Bitcoin Is a Bubble, Ponzi, and Disaster  #Bitcoin '	n
+b'Australia to Ban Bitcoin Gambling  #Bitcoin '	n
+b'Intelligence: Pyongyang Trying to Steal Cryptos before Pyeongchang Olympics  #Bitcoin '	n
+b'Major British Credit Card Issuers Ban Customers From Buying Cryptocurrencies  #Bitcoin '	n
+b'Most Korean Crypto Exchanges Unable to Use Government-Mandated System  #Bitcoin '	n
+b'Markets Update: BTC Prices Suffer from a 65% Loss Since December  #Bitcoin '	n
+b'China to Block Access to International Cryptocurrency Exchanges  #Bitcoin '	n
+b'China Censors Cryptocurrency Ads on Search Engines and Social Media  #Bitcoin '	n
+b'Large European Power Company Will Not Sell Electricity to Crypto-Miners  #Bitcoin '	n
+b'Bank of America Becomes the Latest Credit Card-Issuer to Ban Bitcoin  #Bitcoin '	n
+b'Ledger Addresses Man in the Middle Attack That Threatens Millions of Hardware Wallets  '	n
+b'India s Finance Minister Confirms Crypto Not Recognized as Legal Tender, Media Panics  '	n
+b'Leaked Document Appears to Show NSA Infiltrated Cryptos, Tor, VPN  #Bitcoin '	n
+b'Japan Unfazed By Recent Exchange Hack Realizing Cryptocurrencies Not to Blame  #Bitcoin '	n
+b'The Bee Token Crowdsale Stung by $400k Phishing Scam  #Bitcoin '	n
+b'Markets Update: Bears Claw Cryptocurrency Prices Down to New Lows  #Bitcoin '	n
+b'Facebook Bans Cryptocurrency Ads  #Bitcoin '	n
+b'South Korea Finds Nearly $600 Million in Crypto Crime  #Bitcoin '	n
+b'State of Texas Orders Decentralized Bank ICO Project to Cease Operations  #Bitcoin '	n
+b'Facebook Bans Cryptocurrency Ads  #Bitcoin '	n
+b'Coincheck to Repay Hack Victims XEM Balances at 81  Cents Each  #Bitcoin '	n
+b'Europol and Interpol to Increase Measures Against BTC Laundering and Terrorism Financing  '	n
+b'South Korea Ends Anonymous Cryptocurrency Trading Today  #Bitcoin '	n
+b'Japanese Crypto Exchanges Strengthen Self-Regulation Following Coincheck Hack  #Bitcoin '	n
+b'Markets Update: Cryptocurrencies Recover Gains After the Coincheck Hack  #Bitcoin '	n
+b'Why Venezuela s New National Cryptocurrency El Petro Will Fail  #Bitcoin '	n
+b'Discover Card s 44 Million Customers Denied Crypto  #Bitcoin '	n
+b'Coincheck Faces Pressing Questions in the Wake of the World s Biggest Hack  #Bitcoin '	n
+b'Coincheck Halts Operations Amidst Hacking Rumors After $723 Million Withdrawn  #Bitcoin '	n
+b'All Major Korean Cryptocurrency Exchanges Fail Privacy Tests 30 Days to Improve  #Bitcoin '	n
+b'Analyst: IOTA Sharply Overvalued Due to Overwhelming Evidence of Serious Flaws  #Bitcoin '	n
+b'Stripe is Withdrawing Support for Bitcoin Payments  #Bitcoin '	n
+b'New Research: 10% of Funds Raised in ICOs Lost or Stolen  #Bitcoin '	n
+b'South Korean Card Companies Block Transactions to Overseas Cryptocurrency Exchanges  #Bitcoin '	n
+b'Northern European Bank Nordea Confirms Bitcoin Ban for Employees  #Bitcoin '	n
+b'IOTA Attacked for Subpar Wallet Security Following $4m Hack  #Bitcoin '	n
+b'South Korean Exchange Korbit Stops Serving International Citizens  #Bitcoin '	n
+b'Senior Figures Clash as the Tezos ICO War Heats Up  #Bitcoin '	n
+b'Indian Crypto Traders Getting Notices From Tax Authority Due to Unreported Investments  '	n
+b'Onecoin Offices Raided in Sofia, Servers Shut Down  #Bitcoin '	n
+b'Markets Update: Cryptocurrency Prices Rebound But Uncertainty Still Lingers  #Bitcoin '	n
+b'New Research: Laundering of Illicit Funds Less than 1% of Bitcoin Transactions  #Bitcoin '	n
+b'US Regulator Sues Three Companies For Cryptocurrency Fraud  #Bitcoin '	n
+b'Cryptoruble Delayed Russian Central Bank Worried It Could Bypass Regulations  #Bitcoin '	n
+b'US Sheriffs Welcome $ Million Windfall After Students Plead Guilty to Stealing 5,400 BTC  '	n
+b'South Korean Officials Caught Trading On Insider Knowledge of Crypto Regulations  #Bitcoin '	n
+b'Ethereum Network Congestion Forces Exchanges to Halt Withdrawals  #Bitcoin '	n
+b'Bitconnect Shuts Down Its Exchange Citing a String of Excuses  #Bitcoin '	n
+b'Hackers Steal $400k from Users of a Stellar Lumen (XLM) Web Wallet  #Bitcoin '	n
+b'China Central Bank Identifies 3,000 Fake Blockchain Platforms Law Enforcement to Coordinate Against Cybercrime '	n
+b'Companies Deny Having Bitcoin or Blockchain Services Amid China s Clampdown  #Bitcoin '	n
+b'The Futility of Government Bans Bitcoin Always Finds a Way  #Bitcoin '	n
+b'Luno Exchange Bank Account Frozen by Malaysian Tax Officials  #Bitcoin '	n
+b'Metropolitan Bank Ceases Cryptocurrency-Related International Wires  #Bitcoin '	n
+b'Bittrex Delisting Policy Leaves Cryptocurrencies Out in the Cold  #Bitcoin '	n
+b'Whistleblower Details Big Bank s Plans to Prohibit Employees Owning Bitcoin  #Bitcoin '	n
+b'South Korea Announces Crypto Traders Could Face Fines Under New System  #Bitcoin '	n
+b'Bank Indonesia: Do Not Sell, Buy, Trade Cryptocurrency  #Bitcoin '	n
+b'Kucoin Issues a Warning After Bitcoin Diamond Soars 40x and Then Crashes  #Bitcoin '	n
+b'Brazil Regulator Prohibits Funds from Investing in Cryptocurrencies  #Bitcoin '	n
+b'China s Regulatory Authority Warns About Risks of Initial Miner Offerings  #Bitcoin '	n
+b'Sweden s Giant Bank Nordea Allegedly Forbids Employees from Owning or Trading Cryptocurrency '	n
+b'Exchange Problems Mount at Kraken and Coinbase but Bitfinex Reopens Registrations for 10k+ Deposits '	n
+b'Strict Regulations Force South Korean Banks to Stop Servicing Cryptocurrency Exchanges  '	n
+b'Overstock Glitch Gave Customers Discounts With Bitcoin Cash  #Bitcoin '	n
+b'India s Bitcoin Exchange Koinex Suffers From Bank Blocking Crypto Accounts  #Bitcoin '	n
+b'Markets Update: Cryptos Look for Relief After South Korea Mainstream Media FUD Causes Losses '	n
+b'Australian Taxation Office Creates Task Force to Go After Bitcoin Traders  #Bitcoin '	n
+b'Bitcoin Investor Sues Huobi Over 400,000 in Losses  #Bitcoin '	n
+b'SEC Suspends Trading in Blockchain Firm With No Revenues and No Product  #Bitcoin '	n
+b'Miami Bitcoin Conference Stops Accepting Bitcoin Due to Fees and Congestion  #Bitcoin '	n
+b'Venezuela s Oil-Backed Cryptocurrency Declared Illegal  #Bitcoin '	n
+b'Hong Kong Hacker Arrested in Blackmail for Bitcoin Case  #Bitcoin '	n
+b'Microsoft Has Stopped Accepting Bitcoin Deposits  #Bitcoin '	n
+b'US Government to Sell Bitcoin Seized from Dark Web Dealer  #Bitcoin '	n
+b'Is Bitpay Bullying Other Bitcoin Wallets and Hurting Users Privacy?  #Bitcoin '	n
+b'Confusion Grows Surrounding Official Chinese Position Regarding Bitcoin Mining  #Bitcoin '	n
+b'Litigation Filed in India for Immediate Intervention of the Flow of Bitcoins  #Bitcoin '	n
+b'Electrum Moves to Patch Bug That Left Thousands of Bitcoin Wallets Exposed  #Bitcoin '	n
+b'Crypto Card Issuers Seek Solutions in the Wake of a European Ban  #Bitcoin '	n
+b'Coinbase Withdrawal Delays Leave Users Frustrated, Crying Foul  #Bitcoin '	n
+b'Bitcoin Cash Reddit Tip App Users Hacked for Thousands  #Bitcoin '	n
+b'Man s Life Savings Stolen from Hardware Wallet Supplied by a Reseller  #Bitcoin '	n
+b'British Bank Says No to Crypto Firms from Gibraltar  #Bitcoin '	n
+b'Mt. Gox Bitcoin Missing In relation to Mysterious Death of Exchange CEO  #Bitcoin '	n
+b'Despite Multiple Government Warnings, Indians Flock to Crypto Exchanges  #Bitcoin '	n
+b'Visa Veto Leaves Several European Cryptocurrency Cards Locked Out  #Bitcoin '	n
+b'Bitconnect Slapped with Securities Emergency Cease and Desist Order  #Bitcoin '	n
+b'Bittrex Wallets Are Taken Offline as Companies Scramble to Patch the Intel Bug  #Bitcoin '	n
+b'Ethereum Over $1000 and $100B Market Cap, BTC Dominance at 32% Record Low  #Bitcoin '	n
+b'Bitcoin Futures Flat as Contracts Move Short and Merrill Lynch Imposes Ban  #Bitcoin '	n
+b'Chinese Cryptocurrency Exchanges Delay Launching in South Korea Due to Regulation  #Bitcoin '	n
+b'Bitcoin Mining ICO Giga Watt is Being Sued for Securities Fraud  #Bitcoin '	n
+b'Bitcoin Futures Are a Threat to Whole Banking System, Fears ECB Director  #Bitcoin '	n
+b'Bitcoin Fees Are Falling Amidst Greater Segwit Adoption  #Bitcoin '	n
+b'South Korea Expected to End Anonymous Crypto Trading by January 20  #Bitcoin '	n
+b'Privacy Coin Verge is Allegedly Leaking Users IP Addresses  #Bitcoin '	n
+b'Russian Crypto Expert Released After Allegedly Being Kidnapped  #Bitcoin '	n
+b'Australian Freeze: Big Aussie Banks Denying Bitcoiners  #Bitcoin '	n
+b'Seven Deadly Trading Mistakes Every Rookie Makes  #Bitcoin '	n
+b'Dancing With the Devil: Cashing Out Cryptos Into Fiat Not So Easy  #Bitcoin '	n
+b'South Korea Outlines New Attempts to Dampen Crypto Markets  #Bitcoin '	n
+b'Russia Unveils Proposed Regulation Putting Limits on ICOs and Investors  #Bitcoin '	n
+b'Russian Reports say Crypto Entrepreneur Pavel Lerner Kidnapped in Kiev  #Bitcoin '	n
+b'Several Bitcoin Exchanges Are Closing Their Doors to New Traders  #Bitcoin '	n
+b'Major Korean Banks Drop Bitcoin Point Swap Services  #Bitcoin '	n
+b'Indian Police Forces Break up Gang Praying on Bitcoin Investors  #Bitcoin '	n
+b'One Week On from the Etherdelta Hack, Funds Are Still Being Stolen  #Bitcoin '	n
+b'Opera Browser to Include Built-In Anti-Bitcoin Mining Feature  #Bitcoin '	n
+b'Chinese Programmer Arrested Over 20 Million Bitcoin Theft  #Bitcoin '	n
+b'Vietnam Investigates Merchants for Accepting Bitcoin Despite Warnings  #Bitcoin '	n
+b'Bitcoin Network Fees Are Irritating Cryptocurrency Proponents  #Bitcoin '	n
+b'Coinbase Accused of Technical Incompetence After Hoarding Millions of UTXOs  #Bitcoin '	n
+b'The SEC Crackdown on Suspicious Cryptocurrencies Is Getting Serious  #Bitcoin '	n
+b'Bitcoin Crashes! Bitcoin s Dead! Bitcoin s Over! Or Is It? A Brief History of Deaths  '	n
+b'Bitcoin Crashes! Bitcoin s Dead! Bitcoin s Over! A Brief History  #Bitcoin '	n
+b'Forum Wars: r/btc Mod Hacked and r/Bitcoin Continues to Censor  #Bitcoin '	n
+b'Markets Update: Bitcoin Price Continues to Feel Bearish Sentiment  #Bitcoin '	n
+b'Cheated Cryptocurrency Investors Are Taking Matters Into Their Own Hands  #Bitcoin '	n
+b'Two Weeks After Losing $60 Million in Bitcoin, Nicehash Are Back  #Bitcoin '	n
+b'Market Optimism Declines as Bitcoin Futures Euphoria Ends  #Bitcoin '	n
+b'Major Korean Crypto Exchange Upbit at Center of Regulatory Controversy  #Bitcoin '	n
+b'US Blames Bitcoin Ransomware Attack Wannacry on North Korea  #Bitcoin '	n
+b'Korean Cryptocurrency Exchange Youbit to Close After Second Hack in a Year  #Bitcoin '	n
+b'India s Crypto Crackdown: Wealthy Bitcoiners Targeted, Start-Ups Scrutinized  #Bitcoin '	n
+b'Russian Crypto News Outlet Shook Down by the Ukrainian Security Service  #Bitcoin '	n
+b'Not Just Drugs: Darknet Markets Carry a Variety of Goods for Your Bitcoin  #Bitcoin '	n
+b'Bitcoin Fees Have Become Infeasible  #Bitcoin '	n
+b'Bitcoin Gold: A Case Study on the Cryptocurrency Security Problem  #Bitcoin '	n
+b'European Union Terror Fears Drive New Crackdown on Bitcoin Across Member States  #Bitcoin '	n
+b'New York Credit Card Scammer Allegedly Sent Bitcoin to ISIS  #Bitcoin '	n
+b'Man Allegedly Kidnaps Friend at Gunpoint and Steals $ of Cryptocurrency  #Bitcoin '	n
+b'South Korean Banks Drop Crypto Accounts as Government Plans a Ban  #Bitcoin '	n
+b'Starbucks Customer Has His Laptop Hijacked for Cryptocurrency Mining  #Bitcoin '	n
+b'Markets Update: Bitcoin s Price Takes a Quick Dive  #Bitcoin '	n
+b'Tax Investigators Raid Bitcoin Exchanges Across India  #Bitcoin '	n
+b'South Korea Imposes Six Conditions for Crypto Exchanges to Operate  #Bitcoin '	n
+b'SK Regulator Fines Exchange Operator Bithumb 60 Million Won for Leaking Customer Data  '	n
+b'Israeli Regulator Won t Allow Bitcoin Firms Be Included in Stock Indices  #Bitcoin '	n
+b'Two Days of Cboe s Bitcoin Futures Show Intense Volume Fluctuations  #Bitcoin '	n
+b'Canadian Court Sends Perpetrator of Plexcoin ICO Scam to Jail  #Bitcoin '	n
+b'Leaked Documents, Withheld Funds, and Altcoin Pumps: Bittrex Faces Increasing Scrutiny  '	n
+b'South Korea Clarifies Position After Reports of Possible Ban on All Crypto Transactions  '	n
+b'Parity Calls for Ethereum Hard Fork to Reverse $230 Million Bug  #Bitcoin '	n
+b'Britain s GCHQ Spy Agency Is Closely Monitoring Bitcoin  #Bitcoin '	n
+b'Ludicrous Headlines About Bitcoin Mining Will Kill Us All  #Bitcoin '	n
+b'Bitcoin Blackmail Attempts Are On the Rise But No One s Paying  #Bitcoin '	n
+b'10 of the Biggest Lies Told About Bitcoin  #Bitcoin '	n
+b'Danish Woman Arrested After Allegedly Paying for a Fake Darknet Hitman With Bitcoin  #Bitcoin '	n
+b'Deutsche Bank: Bitcoin is One of the Greatest Market Threats in 2018  #Bitcoin '	n
+b'Bankers Have Shut Down All of Bulgaria s Bitcoin Exchanges  #Bitcoin '	n
+b'Heading into Sunday s Bitcoin Futures, Big Banks Refuse Customers Access  #Bitcoin '	n
+b'China s Official Press Agency: 107 Altcoins Under Investigation for Financial Crimes  '	n
+b'Nicehash Mining Pool Allegedly Hacked Accused of Losing 4449 BTC (US$60M)  #Bitcoin '	n
+b'South Korean Financial Regulators Ban Bitcoin Futures Trading  #Bitcoin '	n
+b'Over 10,000 People Have Downloaded Fake Cryptocurrency Apps  #Bitcoin '	n
+b'Peer-to-Peer Bitcoiner Gets Year in Prison for Being Unlicensed  #Bitcoin '	n
+b'Azerbaijan Rejects Crypto as Means of Payment  #Bitcoin '	n
+b'US Government s New Cyber Unit Files its First Charges Against ICO Scam  #Bitcoin '	n
+b'Three Kenyans Face Felony Charges for Selling Bitcoin to a Bank Robber  #Bitcoin '	n
+b'Dutch Columnist: Bitcoin Destabilizes the Economy and Undermines Banks  #Bitcoin '	n
+b'Dilemma for Ukrainian Regulators: Bitcoins Cannot Be Recognized as Money, Legal Tender, Currency or Securities '	n
+b'Proposed  Legislation May Criminalize Those Who Conceal Bitcoin  #Bitcoin '	n
+b'The Satoshi Revolution Chapter 3: Bad News: Government Takes Cryptocurrency Seriously (Part2) '	n
+b'Indonesian Media Urge Bitcoiners to Cash In Ahead of Crypto Ban  #Bitcoin '	n
+b'If My Wife Knows, I m Dead Man Shares Story of Losing 1000 Bitcoins  #Bitcoin '	n
+b'Turkey Religious Ministry: Bitcoin Not Appropriate to Buy or Sell for Islamic Believers  '	n
+b'China s Financial Channel Reports Huobi Violates Spirit of PBOC s Document  #Bitcoin '	n
+b'Trump s Federal Reserve Nominee: Cryptos Don t Really Matter Today  #Bitcoin '	n
+b'South Korea Leader Fears Bitcoin Leads Youth to Drugs, Mexico Ready for Crypto  #Bitcoin '	n
+b'How to Buy Bitcoin When You re Underage  #Bitcoin '	n
+b'How Chinese Blockchain Projects Raise Funds Despite the ICO Ban  #Bitcoin '	n
+b'Bitfinex Faces Further Scrutiny Over Tether Liquidity Concerns  #Bitcoin '	n
+b'Nigerian NDIC Warns That Cryptocurrencies Lack Consumer Protections  #Bitcoin '	n
+b'Russia s VTB Bank s CEO Very, Very Dangerous to Invest in Cryptocurrencies  #Bitcoin '	n
+b'Bittrex Issues a Warning About Cryptocurrency Pump and Dumps  #Bitcoin '	n
+b'The World s Worst Named Cryptocurrencies  #Bitcoin '	n
+b'Reports of Israeli ICO Ban Are Fake News, Entrepreneurs Look to Create Crypto Nation  '	n
+b'A Hacker Gained Access to the Bitcoin Gold Windows Wallet Github  #Bitcoin '	n
+b'Mo Money, Mo Problems: Bitcoin Exchanges Struggle Under Growth Explosion  #Bitcoin '	n
+b'Coingather Exchange Has Been Offline for Days and No One Knows Why  #Bitcoin '	n
+ Education Ecosystem Announces Token Exchange Listings and Chance to Win Three Tesla Model S Cars '	p
+b'Swiss Stock Exchange Chairman Advocates National Cryptocurrency  #Bitcoin '	p
+b'Bitwala Launching Full-Fledged Crypto-Friendly Banking Service with Debit Card  #Bitcoin '	p
+b'Israeli Supreme Court Forbids Bank From Denying Service to Bitcoin Exchange  #Bitcoin '	p
+b'Poll: Bitcoin More Popular With Czechs than the Euro  #Bitcoin '	p
+b'Uzbekistan to Legalize Bitcoin and Support Developers  #Bitcoin '	p
+b'New Bitcoin Embassy Opens in the United States  #Bitcoin '	p
+ LiveTree the Beginning of the End of the Centralized Entertainment Industry  #Bitcoin '	p
+b'Korea Investigates 20 Public Companies for Using Crypto Claims to Boost Share Prices  '	p
+b'Gifting Bitcoin Is One Way a Person Can Avoid Paying Crypto-Taxes  #Bitcoin '	p
+ Why the Bitcoin Holders Should Hurry up to Invest in e-Chat Before March 1, 2018  '	p
+b'Bitcoin Is Finding Its Way into High Schools  #Bitcoin '	p
+b'French Manufacturer Archos Launches Cryptocurrency Hardware Wallet  #Bitcoin '	p
+b'Austria Wants to Regulate Bitcoin like Gold and Derivatives  #Bitcoin '	p
+b'Bitcoin Hardware Manufacturer Bitmain Made a Profit of up to $4 Billion Last Year  #Bitcoin '	p
+b'Montana Scores $250 Million Bitcoin Mining Campus  #Bitcoin '	p
+b'Turkish Minister Proposes National Cryptocurrency  #Bitcoin '	p
+b'Oregon s Cheap Hydropower Attracts a Swarm of Bitcoin Miners  #Bitcoin '	p
+b'Maduro Asks Venezuela s Banks to Mine and Use Cryptocurrency Unions Outraged  #Bitcoin '	p
+b'Russia to Tame and Test Crypto Technologies in Crimea  #Bitcoin '	p
+b"We're pleased to announce The  Podcast Network!  Featuring 3 new show "	p
+b'Venezuela Orders Government Services to Accept Any Cryptocurrency  #Bitcoin '	p
+b'Robinhood Starts Rolling Out Cryptocurrency Trading Today  #Bitcoin '	p
+b'Russian Lawmaker Proposes Legalization of Cryptocurrencies to Attract Investments  #Bitcoin '	p
+b'One Site: Tons of #Bitcoin Tools! A Price Converter, A Paper Wallet generator, a Notary, and more!  #Tools #BCHPLS'	p
+b'66% of Funding to Stop the AI Apocalypse Comes from Crypto Donors  #Bitcoin '	p
+b'Listen now! BLOCKCHAIN 2025  #Blockchain is a technology that will disrupt every industry in '	p
+b'You Can Now Tokenize Yourself  #Bitcoin '	p
+ Bitcoin Holders, Please Claim Your BCP and BCPC, as They Will Be on Exchanges Soon  '	p
+b'BLOCKCHAIN 2025  #Blockchain is a technology that will disrupt every industry in the world. '	p
+b'BLOCKCHAIN 2025  Will #blockchain tech disrupt centralized online marketplaces and pave the '	p
+ SaaS Company Axpire for a Better Future  #Bitcoin '	p
+b'Italy Completes Consultations on Registration of Crypto Companies  #Bitcoin '	p
+b'Venezuela Says Pre-Sale of Oil-Backed Petro Cryptocurrency Has Raised $735 Million  #Bitcoin '	p
+b'ICOs Have Raised $2 Billion This Year Mostly from Private Sales  #Bitcoin '	p
+b' - Bitcoin is open to everyone, we think discussions should be too. #Bitcoin @BTCForum #BCHPLS'	p
+b'South Korean Regulator Supports Normal Cryptocurrency Transactions  #Bitcoin '	p
+ Smart Contract Platform Fabric Token Raises More Than $1 Million in Less Than a Day After ICO Open '	p
+b'Crypto Index Fund Bitwise Delivers 45% Return in First Two Months  #Bitcoin '	p
+b'Israel Tax Authority: Bitcoin is Property, Not Currency  #Bitcoin '	p
+ Hamster Marketplace Presents First Blockchain Platform to Sell Innovative Electronics  '	p
+b'Rural Russia Prepares to Attract Crypto Loans  #Bitcoin '	p
+b'Nigerians Trade $4 Million in Bitcoin Weekly, despite Warnings  #Bitcoin '	p
+ Last Chance to Join Cash Tracker DineroONE Token Presale, a Product That Will Create 45 Billion Worth Industry '	p
+b'System to Guarantee ICO Investments Being Built in Russia  #Bitcoin '	p
+b'Revenues of Cryptocurrency Exchanges in South Korea Up 88-Fold  #Bitcoin '	p
+ World s 1st Ethereum Funding Token Meets Forbes Ripple Effect Criteria for Tripled Profits '	p
+b'Indians Look to Buy Bitcoin Overseas as Regulations Tighten  #Bitcoin '	p
+b'American ATM Network Athena Bitcoin Adds Bitcoin Cash Support  #Bitcoin '	p
+b'Malta to Give Peace of Mind to Crypto Companies  #Bitcoin '	p
+b'Salon Offers Visitors In-House Cryptocurrency Mining When Blocking Ads  #Bitcoin '	p
+b'Bitcoin Puzzle Games Are Growing in Popularity  #Bitcoin '	p
+b'The Satoshi Revolution Chapter 6: (Crypto) Privacy Prevents Violence and Crime (Segment 1) '	p
+b'Number of Cryptocurrency Hedge Funds Rises to 226 Globally  #Bitcoin '	p
+ London Blockchain Startup FarmaTrust Partners with Mongolian Government to Stop Fake Medicine '	p
+b'Atari Joins Growing List of Old Brands Trying To Revitalize Through Cryptocurrency  #Bitcoin '	p
+b'Successful #hiphop artists have been thinking about #cryptocurrency &amp; strategically making good decisions, assuming '	p
+b'US Regulator Warns Against Pump-and-Dumps and Advises How to Buy Crypto  #Bitcoin '	p
+b'Supporting multiple currencies, the Price Converter at  translates the #BTC price into what '	p
+b'Japanese Crypto Associations Merging to Restore Trust Across the Industry  #Bitcoin '	p
+b'Half of Large British Businesses Hold Stockpiles of Cryptocurrency  #Bitcoin '	p
+b'Bank of America Has Filed More Cryptocurrency Patents Than Any Other Company  #Bitcoin '	p
+b'Five Siberian Power Plants Attracting Crypto Miners With Surplus Electricity  #Bitcoin '	p
+b'Japan s GMO to Launch BTC, BCH Cloud Mining Service in August  #Bitcoin '	p
+b'"After I was arrested, I had come to the realization that I was not in the wrong, that I was actually the one who w '	p
+b'Markets Update: Bitcoin Recovers to Test $10,000 Area  #Bitcoin '	p
+b'Crypto Exchanges Launch P2P Platforms from Latvia and Bulgaria  #Bitcoin '	p
+ Fysical s Location Data Proves Racially Diverse Crypto Crowds Are Wealthiest  #Bitcoin '	p
+b'Coinbase Develops Bitpay Competitor Supporting BTC, BCH, ETH and LTC  #Bitcoin '	p
+b'Indian Cryptocurrency Exchanges Plan to Maintain Shared User Database  #Bitcoin '	p
+b'FX Aggregator B2Broker Launches Cryptocurrency Payment Gateway for Merchants  #Bitcoin '	p
+b'Report Claims Litecoin is the Second Most Adopted Currency on Dark Marketplaces  #Bitcoin '	p
+b'Dubai Issues License to Cryptocurrency Firm  #Bitcoin '	p
+ How  Uses Blockchain to Tackle the Billion Dollar Love Scams Industry '	p
+b'South Korea Considers Bitlicense-Style System for Cryptocurrency Exchanges  #Bitcoin '	p
+b'Iceland Bitcoin Mining to Double Energy Consumption This Year  #Bitcoin '	p
+b'Cryptocurrency Mining Demand Exceeded the Expectations of Nvidia in Q4  #Bitcoin '	p
+b'Coingeek Launches 5 Million Bitcoin Cash Tokenization Contest  #Bitcoin '	p
+b'Republican Candidate Austin Petersen Accepts the Largest Campaign Contribution Paid in BTC  '	p
+b'New Crypto Exchanges Launch in South Korea Despite Lack of Fiat Deposits  #Bitcoin '	p
+ Marketing Cloud Lydian Announces New Investment from Prolific Blockchain Investor, Chris Rouland and Announceme '	p
+b'Bitcoin Private Fork Aiming to Make Bitcoin Anonymous  #Bitcoin '	p
+b'BCH Wallet Handcash Enables Bitcoin Cash NFC Transactions  #Bitcoin '	p
+b'Nuclear Engineers Arrested for Mining Cryptocurrency Using Government Supercomputer  #Bitcoin '	p
+ Luxure Global Citizen Statement Luxury Rewards Platform for the World s Most Prestigious Brands '	p
+b'Ledger X President: $50K Bitcoin Bet Saw a $1M Premium the Same Day  #Bitcoin '	p
+b'Law to Legalize Crypto Mining Introduced in Armenia  #Bitcoin '	p
+b'Arizona Closer to Accepting Bitcoin and Regulating ICOs  #Bitcoin '	p
+b'Thanks to Mainstream Media, the Public Are Clueless About Cryptocurrency  #Bitcoin '	p
+b'Besides the Meme Jokes Crypto-Enthusiasts Are Actually Buying Lamborghinis  #Bitcoin '	p
+b'Markets Update: Cryptocurrencies Start Forming a Well Defined Uptrend  #Bitcoin '	p
+b'Physical Bitcoin Mining Hardware Store Bitmart Opens in South Africa  #Bitcoin '	p
+b'More Crypto Jobs in India, Despite Delhi s Stance on Bitcoin  #Bitcoin '	p
+b'Bitcoin Cash Markets Recover While Infrastructure Support Increases  #Bitcoin '	p
+b'Grayscale Plans to Launch a Cryptocurrency Large Cap Fund  #Bitcoin '	p
+b'Leading Australian Banks Allow Customers to Purchase Cryptocurrencies  #Bitcoin '	p
+b'Landmark Senate Crypto Hearing Seen as Mostly Positive by Bitcoiners  #Bitcoin '	p
+ StarChain Reshaping the Entertainment Industry Using Blockchain  #Bitcoin '	p
+b'No Strong Case to Ban Crypto Trading, Singapore Says  #Bitcoin '	p
+b'The European Commission Loves Blockchain s Transparency Except for When It Doesn t  '	p
+b'Venezuela Invites OPEC Countries to Jointly Develop Oil-Backed Crypto Platform  #Bitcoin '	p
+ XinFin Unveils XDC, the Hybrid Blockchain Protocol; Opens Its Utility Token Sale  '	p
+  Wins Investor Award at d10e ICO Pitching Competition at Cayman Islands '	p
+b'New York Wants a Piece of the Ever Growing Bitcoin Mining Pie  #Bitcoin '	p
+b'Cryptocurrencies Are Pushing Semiconductor Innovation and Profits  #Bitcoin '	p
+b'Russia Drafts Bill to Create Offshore Companies to Trade Cryptocurrencies  #Bitcoin '	p
+b'Roboforex Adds Bitcoin Cash and Three Other Cryptocurrency CFDs for Trading  #Bitcoin '	p
+b'Steve Wozniak Liquidates Majority of Bitcoin Holdings To Not Obsess Over Price  #Bitcoin '	p
+ Beat Introducing a Way to Get Paid for Doing Sports  #Bitcoin '	p
+b' introduces the new Buy Bitcoin Cash Portal  #bch #bitcoincash '	p
+ Zerocoin Aims to Become a Standard Crypto Currency for Online Gambling  #Bitcoin '	p
+b'International Market Maintains Demand for Chinese Cryptocurrency Mining Hardware  #Bitcoin '	p
+b'UNICEF Asks Gamers to Mine Cryptocurrency for Syrian Children  #Bitcoin '	p
+b'Japan s Leading Low-Cost Airline Clarifies Plan to Accept Bitcoin  #Bitcoin '	p
+b'Russia Urges 4 Other Countries to Develop Common Approach to Cryptocurrencies  #Bitcoin '	p
+ First Cryptomarketplace Storiqa Has Raised $25 Million  #Bitcoin '	p
+b'Coingeek Announces Funding the Electron Cash Development Team  #Bitcoin '	p
+b'Another Post-Soviet Jurisdiction Welcomes Crypto Miners  #Bitcoin '	p
+b'Montana is Home to New 53 Acre, $75 Million Bitcoin Mining Facility  #Bitcoin '	p
+b'12 Reasons Bitcoin Cash is the Real Bitcoin  #Bitcoin '	p
+b'Philippine SEC to Develop Cryptocurrency Regulations  #Bitcoin '	p
+b'Popular Chinese Firm Cheetah Mobile Launches Crypto-Wallet  #Bitcoin '	p
+b'The Cryptocurrency Markets Are Having an Interesting Week  #Bitcoin '	p
+b'Bank of Russia Allows Crypto Mining But Proposes Miners Sell Their Coins Overseas  #Bitcoin '	p
+b'AMD Increases GPU Production to Match Crypto Mining Demand  #Bitcoin '	p
+b'Market Risk Advisory Committee: Bitcoin Futures Self-Certification Works  #Bitcoin '	p
+b'Mobile Payment Company Square Launches In-app Bitcoin Buy/Sell Option  #Bitcoin '	p
+b'Japan s Most Popular Chat App Launching Cryptocurrency Exchange  #Bitcoin '	p
+b'South Korean Court Rules Bitcoin Has Economic Value  #Bitcoin '	p
+  Aids Ethereum Business Adoption  #Bitcoin '	p
+b'Number of People Looking for Crypto-Careers Increased 10-Fold in 2017  #Bitcoin '	p
+b'Samsung Enters the Bitcoin Mining ASIC Manufacturing Business  #Bitcoin '	p
+b'Over 1 Million People in Line for Robinhood s Bitcoin Trading App  #Bitcoin '	p
+  Token Pre-Sale Sells out More Than 5 Days Ahead  #Bitcoin '	p
+b'We just launched a Bitcoin Cash and Core explorer! '	p
+b'Charitystars Auction With Roger Ver Raises $87K for   #Bitcoin '	p
+b'Hong Kong Fund Acquires Chinese Mining Powerhouse BTCC  #Bitcoin '	p
+ Propy Launches the First Pilot in the US for Blockchain Land Registry  #Bitcoin '	p
+b'Us Government Scientists: Technically, Bitcoin Is a Fork and Bitcoin Cash Is the Original Blockchain '	p
+b'Singapore Mall Sells Cryptocurrency Mining Hardware  #Bitcoin '	p
+b'University College London Fights CV Fraud via Bitcoin Verification  #Bitcoin '	p
+b'Bitcoin Futures Report Shows Bullish Sentiment Is In the Air  #Bitcoin '	p
+b'Thailand Taking Steps to Regulate ICOs  #Bitcoin '	p
+b'George Soros: Bitcoin is Propped Up by Dictators  #Bitcoin '	p
+b'Fintech Company Mogo Plans to Launch Bitcoin Mine in British Columbia  #Bitcoin '	p
+b'South Korean National Pension Fund Indirectly Invests In Crypto Exchanges  #Bitcoin '	p
+b'Arsenal Football Club Partners with Gambling ICO  #Bitcoin '	p
+b'Bank of Japan: No Big Problems With Bitcoin So Far  #Bitcoin '	p
+b'Robinhood Smartphone Trading App Adding Bitcoin and Ether  #Bitcoin '	p
+b'Bitcoin Cash Games Arrives Play Your Favorites Faster With BCH  #Bitcoin '	p
+b'Brisbane Airport to Introduce Bitcoin Payments  #Bitcoin '	p
+ KuCoin Becomes First Cryptocurrency Exchange to List Coinfi (COFI) Token on Jan 29, 2018 '	p
+b'57 Ukrainian Officials Declared Over 21,000 Bitcoins  #Bitcoin '	p
+b'Oil Company Wants to Sell Bitcoin ATMs to Casinos, Stock Jumps 60%  #Bitcoin '	p
+b'3,000 Metric Tons of Wheat Was Recently Traded for Bitcoin  #Bitcoin '	p
+b'Estimate: Crypto Investments in Russia Reached $200 Million Last Year  #Bitcoin '	p
+b' - Bitcoin is open to everyone, we think discussions should be too. #Bitcoin @BTCForum'	p
+b'Rapper 50 Cent Has Millions in Bitcoin  #Bitcoin '	p
+b'The Marketing Ploys of Clones: Another Project Aims to Create a Perfect Bitcoin  #Bitcoin '	p
+b'People Are Paying Thousands of Dollars for Crypto Celebrities on the Blockchain  #Bitcoin '	p
+ GymCoin Announces First Fitness ICO That Allows Digital Currency to Be Accepted at Gyms Worldwide '	p
+b'South Korea Releases Official Guidelines for Cryptocurrency Exchanges and Banks  #Bitcoin '	p
+b'Church in Z rich Accepts Donations in Bitcoin, BCH, Ether, Ripple and Stellar  @icfzurich '	p
+b'Coinbase Is Making $ Million a Day  #Bitcoin '	p
+b'Markets Update: Cryptocurrencies Try to Regain Strength After the Recent Dip  #Bitcoin '	p
+b'Bitflyer Launches in Europe Now Licensed on Three Continents  #Bitcoin '	p
+b'Hydro-Quebec Unable to Meet Energy Demand From Cryptocurrency Miners  #Bitcoin '	p
+b'There Are At Least Twice as Many Bitcoin Traders in Brazil as Stock Investors  #Bitcoin '	p
+b'Korean Crypto Exchanges to Share Data with Banks in New Account System This Month  #Bitcoin '	p
+b'More than Half of Russians Know About Bitcoin Now  #Bitcoin '	p
+b'Consumer Protection Association Slams Bank for Blocking Transfers to Bitcoin Exchanges  '	p
+b'Blockchain Rolls Out Trading Feature for 22 States in the   #Bitcoin '	p
+b'Bill Introduced to Make South Korean Officials Declare Their Crypto Investments  #Bitcoin '	p
+ B2Expand Launches Its Ethereum-Based Game Asset Store  #Bitcoin '	p
+b' Launches Bitcoin Cash Notary Service  #Bitcoin '	p
+ Retail Conglomerate Launches Online Mall Accepting Only MegaX and Bitcoin Cash  #Bitcoin '	p
+b'Lots of Optimism at the Miami Bitcoin Conference This Week  #Bitcoin '	p
+b'Survey: Indians See Brighter Crypto Future than Americans  #Bitcoin '	p
+b'Bitcoin Cash Added to Keepkey Wallet, Exchanges in India and Hong Kong  #Bitcoin '	p
+ 3D Token ICO Attains Soft Cap and Launches Network Hubs Affiliation Program  #Bitcoin '	p
+b'South Korean Regulator: In Reality Impossible to Close Cryptocurrency Exchanges  #Bitcoin '	p
+b'Bitcoin Hardware Wallet Maker Ledger Raises $75 Million from VC Investors  #Bitcoin '	p
+b'Chip Giant TSMC Expects Strong Demand for Cryptocurrency Mining to Continue  #Bitcoin '	p
+b'Social Network  Raises $ to Introduce Cryptocurrency to the Masses '	p
+b'Cryptocurrency Activities Will Be Legal and Tax Free in Belarus Starting in March  #Bitcoin '	p
+b'Mark Cuban s NBA Team Mavericks to Sell Tickets for Bitcoin Next Season  #Bitcoin '	p
+b'St. Louis Federal Reserve Reps in Favor of Cryptocurrencies  #Bitcoin '	p
+b'Despite Regulations, One South Korean Crypto Exchange Rises to the Global Top  #Bitcoin '	p
+b'Businessman Outright Buys Two Electric Power Stations to Do Bitcoin Mining in Russia  '	p
+b'Cryptocurrency App Users Increase 14-Fold in South Korea  #Bitcoin '	p
+b'Japan s Largest Bank to Launch Cryptocurrency Exchange  #Bitcoin '	p
+b'France Appoints a Cryptocurrency Mission Leader  #Bitcoin '	p
+b'Google Search Volume for Bitcoin Keywords Increased by as Much as 1000% During 2017  #Bitcoin '	p
+b'Moscow Exchange Ready for Fast and Easy Crypto Trading  #Bitcoin '	p
+b'Small Washington Town is Becoming a Bitcoin Mining Epicenter  #Bitcoin '	p
+b'Six Months Later Bitcoin Cash Support Continues to Grow  #Bitcoin '	p
+b'Another Stagnant Company Reaps the Blockchain Benefits  #Bitcoin '	p
+b'Calls for Legal Bitcoin in Ukraine, as Natsbank Mulls E-Fiat  #Bitcoin '	p
+b'Canadian Entrepreneur Seeks to Recycle Heat Generated by Cryptocurrency Mining  #Bitcoin '	p
+b'Crypto Derivative Platform Counterparty Is Coming to the Bitcoin Cash Network  #Bitcoin '	p
+b'Ditch University and High Transaction Fees Praxis Accepts Bitcoin Cash  #Bitcoin '	p
+b'Kentucky Fried Chicken Canada Launches Bitcoin Bucket  #Bitcoin '	p
+b"RT @rogerkver: I'm glad to become an advisor for , a company building the world's first blockchain based spend management system."	p
+b'Russia Drafts Bill to Legalize Cryptocurrency Trading on Approved Exchanges  #Bitcoin '	p
+b'US Marshals Plan to Auction $52M Worth of Seized Bitcoins  #Bitcoin '	p
+b'Hive to Place Its $100Mn USD Bitcoin Mining Operations in Northern Sweden  #Bitcoin '	p
+b'Goldman Sachs Recognizes Bitcoin s Future Potential  #Bitcoin '	p
+b'Microsoft Press Office: We ve Restored Bitcoin as a Payment Option  #Bitcoin '	p
+b'5000 MW to Spare CEO of Hydro-Qu Bec Wants to Attract Cryptocurrency Miners  #Bitcoin '	p
+b'South Korea Urges 23 Countries, EU, and IMF to Collaborate on Curbing Crypto Trading  '	p
+b'Iranian Banker Calls for Cryptocurrency Acceptance  #Bitcoin '	p
+b'Aerospace Engineer Uses Bitcoin Cash to Buy $415,000 Home in Seattle  #Bitcoin '	p
+b'US Government to Sell Bitcoin Seized from Dark Web Dealer  #Bitcoin '	p
+b'People Selling Fully Verified Crypto-Exchange Accounts On the Rise  #Bitcoin '	p
+b'Korean Government Starts Inspecting Major Banks for Crypto Regulation Compliance  #Bitcoin '	p
+b'Local Bitcoin Meetups Are Booming Worldwide  #Bitcoin '	p
+b'Former Iced Tea Firm Plans to Mine Bitcoin in the Nordic Region  #Bitcoin '	p
+b'Cryptocurrency Valuations Have Created Very Wealthy Founders  #Bitcoin '	p
+b'Iranian Bitcoin Adoption Surges Amid Political Protests and Censorship  #Bitcoin '	p
+b'Canadians Harness Wind to Mine Bitcoin in Romania  #Bitcoin '	p
+b'BTCC Founder Positive the PBOC Will Remove China s Exchange Ban  #Bitcoin '	p
+b'Total Capitalization of the Crypto Markets Now Exceeds $750 Billion  #Bitcoin '	p
+b'African Holding Company VP Urges Central Bank to Buy Bitcoin and Ditch Dollar  #Bitcoin '	p
+b'Cryptocurrency Mining Soars in Vietnam Over 7000 Rigs Imported  #Bitcoin '	p
+b'Rising Ripple Threatens to Usurp Bitcoin and Usher In The Rippening  #Bitcoin '	p
+b'Markets Update: Cryptocurrencies See Big Gains After New Year s Day  #Bitcoin '	p
+b'ICOs Raise Over $1 Billion in a Month for the First Time  #Bitcoin '	p
+b'Koreans Deposited 64 Times More Fiat Into Crypto Exchanges in 2017  #Bitcoin '	p
+b'The Bitcoin Exchange That Once Dominated China Is Heading to Japan  #Bitcoin '	p
+b'Japan s GDP Grows Due to Bitcoin Wealth Effect  #Bitcoin '	p
+b'South Korean Exchanges Revise Policies to Comply with Crypto Regulation  #Bitcoin '	p
+ Alibaba and eBay s Representatives Support Global Marketplace Storiqa  #Bitcoin '	p
+b'Ripple Gains 1,000% in One Month Now the Second Largest Cryptocurrency  #Bitcoin '	p
+b'Surveys: 73% of Russians Will Increase Crypto Investments  #Bitcoin '	p
+b'Japan Approves New Bitcoin Exchange as Adoption Grows and Peers Expand Overseas  #Bitcoin '	p
+ Propy s New Launch: It Is Now Possible to Buy Properties in the US for Bitcoin  #Bitcoin '	p
+b'Market Update: BTC Value Consolidates After Bouncing  #Bitcoin '	p
+b'The North American Bitcoin Conference Returns to Miami Bigger Than Ever  #Bitcoin '	p
+b'Markets Update: Deflated Digital Asset Prices Bounce Back  #Bitcoin '	p
+ Segwit2x to Be Reborn in Coming Weeks Ahead  #Bitcoin '	p
+b'UK Garbageman Now Accepts Bitcoin Payments  #Bitcoin '	p
+b'It Came from the East: How Asia Bolstered Cryptocurrencies in 2017  #Bitcoin '	p
+ The Future of Trading Is Here Social Trading Platform Trak Invest  #Bitcoin '	p
+b'Belarus Legalizes Cryptocurrencies and ICOs Tax-Free for Five Years  #Bitcoin '	p
+b'Indian Couple Asked to Be Gifted Bitcoin at Wedding  #Bitcoin '	p
+b'Etrade Joins Increasingly Crowded Bitcoin Futures Market  #Bitcoin '	p
+ Money Metals Exchange Investors Can Now Buy and Sell Precious Metals Using Various Crypto-Currencies '	p
+b'Tether Won t Redeem Americans, Terrorists and Other Bad Actors  #Bitcoin '	p
+b'7 Million Transactions a Second  '	p
+b'Rule Change Could Allow Listing Bitcoin Futures as Exchange Traded Funds  #Bitcoin '	p
+b'Market Optimism Declines as Bitcoin Futures Euphoria Ends  #Bitcoin '	p
+b'Japanese Entertainment Giant DMM Unveils Details of Crypto Exchange to Launch Next Month  '	p
+b'7 Million Transactions a Second Research Paper Declares 1TB Blocks Feasible  #Bitcoin '	p
+b'Japanese Internet Giant GMO Launches Bitcoin Mining Business  #Bitcoin '	p
+b'Nigeria Experiences Spike in Bitcoin Adoption  #Bitcoin '	p
+b'Bitcoin And Mining Dominate Google Searches as Ukraine Closes in on Legalisation  '	p
+b'New Chain Platform Ivy Brings Smart Contracts to Bitcoin  #Bitcoin '	p
+b'Bitcoin Cash Jumps 70% as Coinbase and Gdax Announce Immediate Trading  #Bitcoin '	p
+b'2018 Pyeongchang United States Olympic Luge Team to Accept Bitcoin Donations  #Bitcoin '	p
+b'Major Japanese Automotive Group and Dealerships Embracing Bitcoin  #Bitcoin '	p
+ Extra Credit Takes Bitcoin Education to the Next Level  #Bitcoin '	p
+b'More Firms Entering the Bitcoin Market See Stocks Soar  #Bitcoin '	p
+b'Crypto to Take Center Stage at G20 Need to See How We Can Regulate Bitcoin  #Bitcoin '	p
+b'Hong Kong Investors Rush to Enter the Bitcoin Markets  #Bitcoin '	p
+ Peer to Peer Crypto Exchange  Restores the Cryptocurrency s Freedom: Performance Summary '	p
+b'Bitcoin s Price Captures a New High Touching $18,000  #Bitcoin '	p
+b'Bitpay Plans to Use Bitcoin Cash for Payment Invoices and Debit Loads  #Bitcoin '	p
+b'RT @BitPay: BitPay Will Process Payments on Multiple Blockchains, Starting with Bitcoin Cash | The BitPay Blog  #Bit'	p
+b'Jimmy Nguyen Discusses Nchain s New Investment Arm and Bitcoin Cash  #Bitcoin '	p
+b'Danish Billionaire Renames the Rungsted Capital Ice Rink to Bitcoin Arena  #Bitcoin '	p
+b'An Anonymous Early Adopter Is Donating 5,057 BTC ($86M) to Charity  #Bitcoin '	p
+b'Putin Aide Says Bitcoin Can Help Russia Bypass Financial Sanctions  #Bitcoin '	p
+b'Trezor Firmware Update Brings Shorter Addresses and Support for More Tokens  #Bitcoin '	p
+b'Despite Regulation, Russians Plan to Build Europe s Largest Mining Farms  #Bitcoin '	p
+b'Bitcoin Can t Stop Breaking Things  '	p
+b'Chinese Whale Buys Fleet of F1 Cars Worth 4 Million with Litecoin  #Bitcoin '	p
+b' Bitcoin Futures Markets Pump Up ETF Optimism  #Bitcoin '	p
+b' Shares Skyrocket as Morgan Stanley Buys Passive Stake in Bitcoin-Friendly Company '	p
+b'Japanese Internet Giant GMO Offers to Pay 4700+ Employees in Bitcoin  #Bitcoin '	p
+b'Americans Are Taking Out Mortgages to Buy Bitcoin  #Bitcoin '	p
+b'Howard Stern, Saturday Night Live Reference Bitcoin as Popularity Grows  #Bitcoin '	p
+b'People Are Discovering Bitcoin Worth Thousands of Dollars in Changetip Accounts  #Bitcoin '	p
+b'Bitflyer CEO Says Japan and Leverage Is Leading Bitcoin Markets Higher  #Bitcoin '	p
+ Swissborg Crypto Wealth Management ICO Raised 10 Million Usd in One Day  #Bitcoin '	p
+b'Precious Metals Dealer Apmex Now Accepts Bitcoin for Purchases  #Bitcoin '	p
+b'Bitcoin Is a New Haven From Hyperinflation for Rich Latin Americans  #Bitcoin '	p
+b'Markets Update: Bitcoin s Value Climbs After Cboe Opens XBT Trading  #Bitcoin '	p
+b'Lamassu Adds Bitcoin Cash Giving BCH More ATM Support  #Bitcoin '	p
+b'Soccer Star Lio Messi Promotes Ultra-Secure New Crypto Phone  #Bitcoin '	p
+b'Viabtc Announces New Cryptocurrency Exchange With Bitcoin Cash as Base Currency  #Bitcoin '	p
+b'Buy Bitcoin, Not Real Estate  #Bitcoin '	p
+ Bergmannos New Linux-Based Os for Mining  #Bitcoin '	p
+b'Bitcoin Price Reaches Another Peak Crossing $15,000  #Bitcoin '	p
+b'Russian Presidential Candidate: We Will Legalize Bitcoin and Other Cryptocurrencies  '	p
+b'World Bitcoin Community Showers the Great Explainer Antonopoulos With Love and $700,000+  '	p
+b'Surf Air Joins the Growing List of Private Airlines Accepting Bitcoin  #Bitcoin '	p
+b'Bitcoin Rockets Past $14,000 Astonishing Everyone  #Bitcoin '	p
+b'This Gold Dealer Is Now Selling More Bitcoin Than Precious Metals  #Bitcoin '	p
+b'Apple Pay Cash Launches as Users and Developers Turn to Bitcoin  #Bitcoin '	p
+b'Markets Show Relentless Energy As the Price of Bitcoin Exceeds $13,000  #Bitcoin '	p
+b'Bitcoin Markets Push the Cryptocurrency s Value to $12,000  #Bitcoin '	p
+b'Tim Draper Advises Argentina s President to Invest in Bitcoin  #Bitcoin '	p
+b'South African Drivers Can Now Pay Traffic Fines in Bitcoin  #Bitcoin '	p
+b'This Bulgarian Business School Offers Bitcoin Scholarships  #Bitcoin '	p
+b'Bitfury is Building the Largest Bitcoin Mining Operation in North America  #Bitcoin '	p
+b'Israeli Regulator: We Need to Welcome Cryptocurrency to Develop International ICO Hub  '	p
+b'Despite Warnings China s Over the Counter Bitcoin Economy Is Booming  #Bitcoin '	p
+b'Venezuela Announces the Creation of Oil-Backed National Cryptocurrency the Petro  #Bitcoin '	p
+b'Localbitcoins Markets Set Record Trading Volume  #Bitcoin '	p
+b'Gold Mining Company s Shares Jump 1,300% After Switch to Bitcoin  #Bitcoin '	p
+b'Japan Increases Lead Approves Another Four New Cryptocurrency Exchanges  #Bitcoin '	p
+b'Markets Update: Global Bitcoin Prices Exceed $11,800  #Bitcoin '	p
+b'Bitcoin s Price Rocket is Bringing Out New Prophets of Doom: Nobel Economist, Vanguard Founder, Fed Governor '	p
+ Truckcoin, the Fastest Payment Processing Cryptocurrency ICO Is Finally Here  #Bitcoin '	p
+b'No Regulation Needed Moscow Stock Exchange Plans to Trade Bitcoin Futures  #Bitcoin '	p
+b'NYU Plans to Launch an Undergraduate Course in Cryptocurrencies  #Bitcoin '	p
+b'This Week s All-Time High Brings Massive Bitcoin Exchange Outages  #Bitcoin '	p
+b'Big Four Firm PwC s Hong Kong Office Accepts Bitcoin  #Bitcoin '	p
+b'Central Bank Round-Up: Brazil &amp; New Zealand Issue Statements, Cryptos are Assets or Securities in Canada '	p
+b'Markets Update: Bitcoin s Price Jumps to an All-Time High Above $11,300  #Bitcoin '	p
+b'1 Million Yen, 100 Million INR Bitcoin Sets New Price Milestones on International Markets  '	p
+ Rentberry Decentralized Home Rental Platform  #Bitcoin '	p
+b'New All Time High A Single Bitcoin is Now Worth $10,000  #Bitcoin '	p
+b'Bitflyer Launches Its New Cryptocurrency Exchange for US Customers  #Bitcoin '	p
+b'The Cryptocurrency Market Cap Trends Higher Commanding $300Bn This Week  #bitcoinnews '	p
+b'Bitcoin Use in Iran Welcomed by Nation s High Council of Cyberspace  #Bitcoin '	p
+b'After Japan and South Korea These Countries Are Primed For Bitcoin Mania  #Bitcoin '	p
+b'The Cryptocurrency Market Cap Trends Higher Commanding $300Bn This Week  #Bitcoin '	p
+ New Wallet Rahakott Will Make the Cryptocurrency World More Accessible  #Bitcoin '	p
+b'Bitcoin Touches a Milestone Price of $9K Across Global Exchanges  #Bitcoin '	p
+b'This Week in Bitcoin: Record Highs, Bankers Pile In, and a Wild Dragonmint Appears  #Bitcoin '	p
+b'North Korean Citizens Study Cryptocurrencies at Pyongyang University  #Bitcoin '	p
+b'Markets Update: Bitcoin Bulls Push the Price Above $8600  #Bitcoin '	p
+ Storiqa Is Starting to Expand New Trend in E-Commerce Worldwide  #Bitcoin '	p
+b'Swissquote Bank Launches Exchange-Traded Bitcoin Certificates  #Bitcoin '	p
+b'Hong Kong Company Set to Build Crypto Mining Farm and Museum on Russian Island  #Bitcoin '	p
+b'President of Belarus Expected to Sign Decree to Legalize Cryptocurrencies  #Bitcoin '	p
+b'The Fundening? Quarter Billion Dollar Gold Fund is Buying Bitcoin  #Bitcoin '	p
+b'Bitcoin Cash Sees Significant Support and Adoption Over Four Months  #Bitcoin '	p
+b'Philippines to Legalize Bitcoin as a Security.  '	p
+b'Real Estate World Shocked to Find Out How Many People Have Bitcoin  #Bitcoin '	p
+b'Philippines Move in Direction to Legalize Bitcoin as a Security  #Bitcoin '	p
+b'62% of Institutional Investors are Buying or Considering Buying Bitcoin  #Bitcoin '	p
+b'Quebec Attracts Cryptocurrency Miners with Inexpensive Hydropower  #Bitcoin '	p
+b'The Price of Bitcoin Exceeds $8K Across Global Exchanges  #Bitcoin '	p
+b'Overstock Announces Alaska as State Conducting Most Cryptocurrency Purchases  #Bitcoin '	p
+b'Japanese Publicly Listed Companies Launch Cryptocurrency Exchanges in South Korea  #Bitcoin '	p
+b'Segwit Integration is Set to Increase with Bitfinex Next on the List  #Bitcoin '	p
+ United Traders Reveals ICO Plans with a Vision to Solve the Liquidity Problem in the World of Cryptocurrency '	p
+b'One of the World s Largest ATM Manufacturers Announces Bitcoin Support  #Bitcoin '	p
+b'Bitcoin Hits $13,500 in Zimbabwe as Tanks Roll Through the Capital  #Zimbabwe '	p
+ Quoine Crypto Exchange Raises 350 Million Qash in Significantly Oversubscribed ICO  '	p
+b'Confidential Transactions Could Add Anonymity to Bitcoin and Litecoin  #Bitcoin '	p
+b'Bitmex Launches Bitcoin Cash Futures and Announces BCH Distribution  #Bitcoin '	p
+b'Singaporean  Reports Increasing Hardware Demand  #Bitcoin '	p
+b'6 Trillion Dollar Man Says Tiny Bitcoin Succeeds Due to Being Anonymous and Cross-Border '	p
+ Tokenbox Platform to Invest $6 Million into Crypto Funds Development  #Bitcoin '	p
+b'Bitcoin Cash Price Surpasses $1,800 Eying the Second Largest Market Cap  #Bitcoin '	p
+b'Bitcoin by Numbers: 21 Statistics That Reveal Growing Demand for the Cryptocurrency  #Bitcoin '	p
+b'Total Supply of Tethers Increases By 20% in One Week  #Bitcoin '	p
+b'Bitcoin Cash Surges as Businesses Abandon Legacy BTC  #Bitcoin '	p
+b'Markets Update: Bitcoin s Daily Trade Volume Surpasses $5B  #Bitcoin '	p
+b'India Central Banker Doubles-Down on Suppressing Bitcoin  #Bitcoin '	p
+b'As Bitcoin Reaches New Price Highs, Network Congestion and Fees Spike  #Bitcoin '	p
+b'Cryptocurrency Companies See Dramatic Spikes in Share Price  #Bitcoin '	p
+b'Japanese City Attracts Cryptocurrency Miners with Abundant Renewable Energy  #Bitcoin '	p
+b'China Monitors Booming OTC Bitcoin Market After Shutting Down Exchanges  #Bitcoin '	p
+b'Bitcoin Regains Over 60% Crypto Market Dominance For First Time in 7 Months  #Bitcoin '	p
+ Arna Blockchain Helps In Cancer Diagnostics  #Bitcoin '	p
+b'Uruguay to Launch Digital Currency, Not Bitcoin it Stresses  #Bitcoin '	p
+ Serenity Financial Forex Problems Solved by Blockchain  #Bitcoin '	p
+b'Siberians Use Cryptocurrency Miners to Heat Homes  '	p
+b'Turkish Central Bank President: Cryptocurrencies May Contribute to Financial Stability  '	p
+b'Over One Million People Enroll in Online Crypto Class  #cryptography '	p
+b'Markets Update: First of the Month Sees Bitcoin Skyrocket to $6900+  #Bitcoin '	p
+b'Major Chinese Exchanges Launch P2P Trading Platforms  #Bitcoin '	p
+b'Bitcoin Price Captures Another All-Time High Surpassing $6,400  #Bitcoin '	p
+b'Bitcoin-Related Jobs Fastest Growing Sector of International Employment  #Bitcoin '	p
+b'30% of Bill Miller s Hedge Fund Is Invested in Bitcoin  #Bitcoin '	p
+ Waste to Energy Blockchain Company 4New Raises $25 Million Within 8 Days of Presale Launch '	p
+ Dalecoin Team Reward Investors Qualified for the Upcoming Airdrop with Gifts, Release Fascinating Features '	p
+b'UAE-Based Investors Reveal Outlook for Bitcoin Markets  #Bitcoin '	p
+b'Samsung Builds Bitcoin Mining Rig Using Old Phones  #Bitcoin '	p
+b'Japan s SBI Group Launching Eight Crypto Businesses Including Mining  #Bitcoin '	p
+b'Arras Lives on Bitcoin for a Week and Proves Bitcoin Is Gaining Acceptance  #Bitcoin '	p
+b'Bitcoin Goes UK Chic, Juliettes Interiors First Luxury Retailer to Accept Cryptocurrency  '	p
+b'Palm Beach Group Reveals $1 Million Bitcoin Giveaway  #Bitcoin '	p
+b'The #Blockchain is for more than just BTC transaction history.  can help you create immutable proof of what s yours!'	p
+ Palm Beach Research Group Hosting a Free Cryptocurrency Training and Giving Away $1 Million Dollars in Bitcoin '	p
+ Jboxcoin, a Blockchain Based, Decentrlized Video Streaming Platform  #Bitcoin '	p
+b'Bitcoin Accessibility From a Blind Person s Perspective  #Bitcoin '	p
+b'Supporting multiple currencies, the Price Converter at  translates the #BTC price into what s comfortable for you!'	p
+b'South Africa s Bidorbuy Sees Six Fold Increase with Bitcoin  #Bitcoin '	p
+b'Putin Mandates Cryptocurrency and ICO Regulation Be Finalized by July 2018  #Bitcoin '	p
+b'Ledger Bitcoin Wallet Partners With Tech Giant Intel  #Bitcoin '	p
+b'Wirex and SBI Holdings Partner Up, Prep to Launch Bitcoin Card in Japan  #Bitcoin '	p
+ Meet the New Generation of Online Advertising with   #Bitcoin '	p
+ Appian Decentralized Application Creator- the Secret to Making Big Money with Crypto  '	p
+ Hedge Token Platform Launched Its Flagship Cryptocurrency Index Named Buchman Crypto 30 Index for Effective C '	p
+b'Russia Promises Regulation Will Not Kill ICOs  #Bitcoin '	p
+b'With Bitcoin s Price Above $6000 USD, Satoshi Nakamoto Should Be on Forbes Rich List  '	p
+b'Survey Respondents Say Bitcoin to Reach $10,000  #Bitcoin '	p
+b'Over $1 Million in Bitcoin Swaps and Options Traded on Ledgerx in its First Week  #Bitcoin '	p
+b'Italian Auction House is First to Allow Bidding with Bitcoin  #Bitcoin '	p
+b'The Price of Bitcoin Touches New Highs Reaching the $6K Mark  #Bitcoin '	p
+ Smartbillions Blockchain Lottery Continues Ticket Sales and ICO Success!  #Bitcoin '	p
+b'Supporting multiple currencies, the Price Converter at  translates the #BTC price into what s comfortable for you!'	p
+b'Kazakhstan Set to Launch National Cryptocurrency Backed by Fiat  #Bitcoin '	p
+b'Ukraine s New Bill Treats Bitcoin as Financial Asset and Encourages Mining  #Bitcoin '	p
+b'KYC Bill to Regulate Bitcoin Exchanges Green Lighted by Australian Senate Committee  #Bitcoin '	p
+b'Slotland Online Gaming Site Now Offers Bitcoin Deposits and Withdrawals  #Bitcoin '	p
+b'Signaling Growing Bitcoin Acceptance, Colombia Gets Second Cryptocurrency Conference  '	p
+b'Putin Orders the Issue of Russia s National Cryptocurrency  #cryptoruble #putin '	p
+b'Australian Bitcoin Adoption Increases Following Regulatory Amendments  #Bitcoin '	p
+b'Putin Orders the Issue of Russia s National Cryptocurrency the Cryptoruble  #Bitcoin '	p
+ Universa Blockchain Project Ceo Alexander Borodich and Yellowrockets Are Launching the World s First Decentrali '	p
+b'Bitcoin Market Capitalization Approaches $100 Billion USD  #Bitcoin '	p
+b'Nordic Law Firm Now Accepts Bitcoin Payments  #Bitcoin '	p
+b'Coinbase Users Can Now Use Bank Accounts to Instantly Purchase Cryptocurrency  #Bitcoin '	p
+b'Iranian Computer Hardware Company Accepts Bitcoin  #Bitcoin '	p
+b'Users Can Now Store and Exchange Bitcoin Cash Via the Blockchain Wallet  #Bitcoin '	p
+b'Bitcoin Surges Past $5,000 USD to Establish New All-Time High  #Bitcoin '	p
+b'Vanuatu Becomes First Nation to Accept Bitcoin in Exchange for Citizenship  #vanuatu '	p
+b'Putin Tells Central Bank Not to Create Unnecessary Barriers to Cryptocurrencies  #Bitcoin '	p
+b'Ukraine Proposes Law to Completely Legalize Cryptocurrency Transactions  #Bitcoin '	p
+b'Porn Star Tempts Russian Prime Minister to Legalize Cryptocurrencies in a Video Message  '	p
+b'Abu Dhabi to Regulate Cryptocurrencies as Commodities and ICOs as Specified Investments  '	p
+ Smartlands Platform Attracted Early-Bird Investors  #Bitcoin '	p
+b'Vanuatu Becomes First Nation to Accept Bitcoin in Exchange for Citizenship  #Bitcoin '	p
+b'Japanese Renewable Energy Provider Offers Low Flat-Rate Electricity for Crypto Miners  '	p
+b'Bitcoin Has Caught the Attention of Tanzania s Central Bank  #Bitcoin '	p
+b'Japan s Largest Bitcoin Exchange Bitflyer Launches Bitcoin Visa Prepaid Card  #Bitcoin '	p
+b'England Can Now Use Left-Over Pence to Automatically Buy Bitcoin  #Bitcoin '	p
+b'Swiss Vocational School Lucerne University Accepts Bitcoin for Tuition  #Bitcoin '	p
+b'Japan s Finance Industry Embraces Bitcoin Mining  #blockchain #mining ping @blockchain '	p
+b'The Satoshi Revolution by @WendyMcElroy1 Chapter 1: A Revolution of Rising Expectations  '	p
+b'Welto Integrates with Coinbase so Users Can Pay Bills with Bitcoin  #Bitcoin '	p
+b'Russia s Central Bank Pushes for National Cryptocurrency  #Bitcoin '	p
+b'Japan s Finance Industry Embraces Bitcoin Mining  #Bitcoin '	p
+b'Large Japanese Energy Supplier Adds Bitcoin Payments With a Discount  #Bitcoin '	p
+b'Sweden s Largest Online Stockbroker Avanza Bank Adds Bitcoin Services  #avanza '	p
+ Announcing Viewly Pre-ICO, a Decentralized Video Platform  #Bitcoin '	p
+b'Sweden s Largest Online Stockbroker Avanza Bank Adds Bitcoin Services  #Bitcoin '	p
+b'Switzerland s FINMA Eyes Crypto Valley  #Bitcoin '	p
+ Eloplay Launches a Token Sale Campaign to Blockchainize its Gaming Platform  #Bitcoin '	p
+b'Coinbase Co-Founder Eyes New Zealand Bitcoin Market  #Bitcoin '	p
+b'Russia Proposes Adding Cryptocurrency to the Population s Financial Literacy Strategy  '	p
+b'Free Talk Live s Co-Host Discusses Bitcoin Radio Ads and Accepting Bitcoin Cash  #Bitcoin '	p
+b'Bitcoin Prices Skyrocket to $7200 on Zimbabwean Exchange During Economic Turmoil  #Bitcoin '	p
+ Famous Football Player Hal Robson-Kanu Invests in Sandcoin Project in Russia  #Bitcoin '	p
+b'Markets Update: Bitcoin Prices See Some Uptrend During the Weekend  #Bitcoin '	p
+b'Japan Endorses 11 Different Crypto Exchanges, Turns Into Friendliest Asian Bitcoin Market  '	p
+b'Cayman Investment Forum Focuses on Rise of Bitcoin and Failing Dollar  #Bitcoin '	p
+b'GMO Enables Bitcoin Cash and Ether Trading With Promotional Discounts  #Bitcoin '	p
+b'India s Multi-Currency Exchange Will List Bitcoin Cash in Two Weeks  #Bitcoin '	p
+b' Company to Establish 35+ MW Mining Farm in Sweden  #Bitcoin '	p
+b'Bahrain May Adopt Bitcoin and Issue Bonds in Digital Currency  #Bitcoin '	p
+b'Sunex Lets Members Purchase Solar Cells and Distributes Profits as Bitcoin or Fiat  #Bitcoin '	p
+b'Korea s Largest Messenger App Launching Exchange With 110+ Cryptocurrencies  #Bitcoin '	p
+b'Russian Government Seeks Cryptocurrency Researchers, Will Pay  Million Rubles  #Bitcoin '	p
+b'Bitpay Adds Bitcoin Cash Support to Copay Wallet and Insight Block Explorer  #Bitcoin '	p
+b'Bitso Exchange Raises Cryptocurrencies for Mexican Earthquake Victims  #Bitcoin '	p
+b'Russian Governor Invites Cryptocurrency Miners to Set Up Mining Farms in Leningrad  #Bitcoin '	p
+b'Pirate Bay Founder s Njalla Offers Anonymous Domain Registration for Bitcoin  #njalla '	p
+b'Bond Street Level Jeweler Samer Halimeh NY Now Accepts Bitcoin  #Bitcoin '	p
+b'Five Leading Russian Universities Start Offering Cryptocurrency Courses  #Bitcoin '	p
+b'India Considers Issuing Its Own Bitcoin-Like Cryptocurrency as Legal Tender  #Bitcoin '	p
+b'Cryptocurrency Site Coinmarketcap Now Among Top 400 Most Visited Websites Worldwide  #Bitcoin '	p
+ LAT Research: The Exponential Growth of Crypto Markets to $5 trillion  #Bitcoin '	p
+b'Russia s Finance Ministry Drafts Law to Legalize Cryptocurrencies  #Bitcoin '	p
+b'Chiasso, Switzerland Municipality to Allow Citizens to Pay Taxes in Bitcoin  #Bitcoin '	p
+b'Korean Court Rules Bitcoin Cannot Be Confiscated  #Bitcoin '	p
+b'Professor Urges New Zealand Government to Develop Bitcoin Regulations  #Bitcoin '	p
+b'Japan s Internet Giant GMO Launching Bitcoin Mining with 7nm Chips  #Bitcoin '	p
+b'Top Indian Bitcoin Exchange Integrates With Blockchain Wallet  #Bitcoin '	p
+b'Project to Subsidize Electricity Costs to Cryptocurrency Miners Underway in Russia  #Bitcoin '	p
+b'Chainside Launches Segwit-Compliant Python 3 Bitcoin Library BTCpy  #Bitcoin '	p
+b'Luxury Dubai High Rise Apartments Will Be Sold for Bitcoin  #bitcoin '	p
+b'Russian Official Claims Central Bank Has Approved First Cryptocurrency Exchange  #Bitcoin '	p
+b'South Korea Takes Steps To Regulate Digital Currencies  #Bitcoin '	p
+ Ethereum Based Cloud Token Set to Decentralize And Revolutionize Cloud Services Starting Now '	p
+b'Ukrainian Lawmakers Agree to Settle on Bitcoin s Legal Status in 3 Weeks  #Bitcoin '	p
+b'Another All Time High Bitcoin Breaks Through 5,000 USD  #Bitcoin '	p
+b'Bitcoin Is Becoming a Popular Investment for Middle-Class Americans  #bitcoin '	p
+b' Lawmakers Aim to Protect Bitcoin Users from Government Harassment  #Bitcoin '	p
+b'Markets Update: Bitcoin Skyrockets to $4650 Setting New All-Time High  #Bitcoin '	p
+b'Russia Proposes Treating Bitcoin as Financial Asset Restricted to Qualified Investors  '	p
+b'Over $50K in Cryptocurrency Donations Will Help Texas Hurricane Victims  #Bitcoin '	p
+b'Popular Korean Talk-Based Stock Trading App Adding Cryptocurrency Exchange  #Bitcoin '	p
+b'SEC Suspends Trading of Bitcoin Firm s Shares After 7000% Price Jump  #Bitcoin '	p
+b'Large Korean Conglomerate Gets Into Bitcoin Remittances Post Legalization  #Bitcoin '	p
+b'Central Bank of Egypt Responds to First Bitcoin Exchange Launch  #Bitcoin '	p
+b'"There is also a growing number of large corporations adding bitcoin exchanges as part of their services."  #japan'	p
+b'"Ayre believes the Bitcoin Cash blockchain will become the one chain that powers the world."  #bitcoincash'	p
+b'Gibraltar Gets First Bitcoin ATM While Working on Cryptocurrency Regulation  #Bitcoin '	p
+b'Media Granted Access to Bitmain s Mongolian Bitcoin Mines  #Bitcoin '	p
+b'World s Largest Bitcoin Exchange Bitflyer Expands into US Market  #Bitcoin '	p
+b'"For the past two days, BCH markets have been on fire, and the market is up over 60 percent at the time of writing." '	p
+b'South African Bitcoin Trading Sets Record Volume  #Bitcoin '	p
+ Bitconnect Coin (BCC) Hits New All-Time High at $115, as Bitcoin Price Surges  #Bitcoin '	p
+b'Coinbase Receives Patent for New Bitcoin Security Measure  #Bitcoin '	p
+b'Australia Introduces Bill That Regulates Bitcoin Exchanges  #Bitcoin '	p
+b'Bithumb Opens Walk-In Customer Service Center Following Unprecedented Growth  #Bitcoin '	p
+b'"Bitcoin mining is gaining popularity in Venezuela in part due to an abundance of cheap electricity." '	p
+b'"Now that we have bitcoin with bigger blocks, we hope that bitcoin usage dominance will be back." '	p
+b'"The prime objective of Bitbay India is to remove all misconceptions related to cryptocurrency." '	p
+b'Bitbay Exchange Enters Indian Cryptocurrency Markets  #Bitcoin '	p
+b'Bitcoin Flies Past New All-Time High of $4K Across Global Exchanges  #Bitcoin '	p
+b'Australian Primary School Students Explore Bitcoin  #bitcoin #blockchain '	p
+b'"All UK police staff should be required to complete a mandatory Bitcoin e-learning package" - The N8 Police Report '	p
+b'First Bitcoin Exchange Launching in Egypt  #Bitcoin '	p
+b'Coinbase Raises $100M to Help Accelerate Digital Currency Adoption  #Bitcoin '	p
+b'Research Says Bitcoin Price Booms May Positively Effect Stock Prices  #Bitcoin '	p
+b'Australian Senators Push Reserve Bank to Make Bitcoin Official Currency  #bitcoin #cryptos '	p
+b'Overstock Now Accepts Various Altcoins for Payment  #Bitcoin '	p
+b'South Africa to Take Balanced Approach to Bitcoin and Cryptocurrency Regulations  #Bitcoin '	p
+b'Major Japanese Department Store Chain Marui Accepts Bitcoin  #Bitcoin '	p
+b'150 Bitcoin ATMs Coming to Ukraine  #Bitcoin '	p
+b'Bitcoin Mobile SIM Card Top-Ups Now Available in 136 Countries  #Bitcoin '	p
+b'These Exchanges Are Now Trading Bitcoin Cash  #Bitcoin '	p
+b'Bitcoin Cash Now Third Highest Valued Cryptocurrency Market Cap  #Bitcoin '	p
+b'Fork Watch: First Bitcoin Cash Block Mined Included Over 6K Transactions  #Bitcoin '	p
+b'Pool Members Now Have the Option to Mine Bitcoin Cash  #bitcoinfork #bitcoincash '	p
+b'Swiss Stock Exchange Chairman Advocates National Cryptocurrency  #Bitcoin '	p
+b'Las Vegas Strippers Accept Bitcoin via QR Tattoos  #Bitcoin '	p
+b'Bitwala Launching Full-Fledged Crypto-Friendly Banking Service with Debit Card  #Bitcoin '	p
+b'Sixth Grader Writes a 57-Page Book About Bitcoin  #Bitcoin '	p
+b'Poll: Bitcoin More Popular With Czechs than the Euro  #Bitcoin '	p
+b'Georgia Lawmakers Propose Tax Amendment That Allows Bitcoin Payments  #Bitcoin '	p
+b'Uzbekistan to Legalize Bitcoin and Support Developers  #Bitcoin '	p
+ Jason Butcher Joins Advisory Board of Xinfin, the Singapore Based Fastest Growing Blockchain Technology Company '	p
+b'Venezuelan Government Opens School to Teach Citizens About Cryptocurrencies  #Bitcoin '	p
+b'New Plant to Assemble Mining Rigs in Belarus  #Bitcoin '	p
+b'Austria Wants to Regulate Bitcoin like Gold and Derivatives  #Bitcoin '	p
+b'Oregon s Cheap Hydropower Attracts a Swarm of Bitcoin Miners  #Bitcoin '	p
+b'Venezuela Orders Government Services to Accept Any Cryptocurrency  #Bitcoin '	p
+b'Robinhood Starts Rolling Out Cryptocurrency Trading Today  #Bitcoin '	p
+b'Russian Lawmaker Proposes Legalization of Cryptocurrencies to Attract Investments  #Bitcoin '	p
+b'BLOCKCHAIN 2025  #Blockchain is a technology that will disrupt every industry in the world. '	p
+b'South Korean Regulator Supports Normal Cryptocurrency Transactions  #Bitcoin '	p
+b'US Lawmakers Eye National Crypto Regulation  #Bitcoin '	p
+ Smart Contract Platform Fabric Token Raises More Than $1 Million in Less Than a Day After ICO Open '	p
+b'Rural Russia Prepares to Attract Crypto Loans  #Bitcoin '	p
+b'American ATM Network Athena Bitcoin Adds Bitcoin Cash Support  #Bitcoin '	p
+ London Blockchain Startup FarmaTrust Partners with Mongolian Government to Stop Fake Medicine '	p
+b'Supporting multiple currencies, the Price Converter at  translates the #BTC price into what '	p
+b'Japanese Crypto Associations Merging to Restore Trust Across the Industry  #Bitcoin '	p
+b'Bank of America Has Filed More Cryptocurrency Patents Than Any Other Company  #Bitcoin '	p
+b'Five Siberian Power Plants Attracting Crypto Miners With Surplus Electricity  #Bitcoin '	p
+b'Japan s GMO to Launch BTC, BCH Cloud Mining Service in August  #Bitcoin '	p
+b'FX Aggregator B2Broker Launches Cryptocurrency Payment Gateway for Merchants  #Bitcoin '	p
+b'Malaysia Central Bank to Let Public Decide Crypto s Fate  #Bitcoin '	p
+b'Report Claims Litecoin is the Second Most Adopted Currency on Dark Marketplaces  #Bitcoin '	p
+b'Dubai Issues License to Cryptocurrency Firm  #Bitcoin '	p
+b'Iceland Bitcoin Mining to Double Energy Consumption This Year  #Bitcoin '	p
+b'Chechnya Leader Kadyrov Buys Bitcoin to Follow Evolution  #Bitcoin '	p
+b'Cryptocurrency Mining Demand Exceeded the Expectations of Nvidia in Q4  #Bitcoin '	p
+b'Republican Candidate Austin Petersen Accepts the Largest Campaign Contribution Paid in BTC  '	p
+b'The City of Berkeley, California Considers Doing Cryptocurrency ICO  #Bitcoin '	p
+b'Law to Legalize Crypto Mining Introduced in Armenia  #Bitcoin '	p
+b'Arizona Closer to Accepting Bitcoin and Regulating ICOs  #Bitcoin '	p
+b'Besides the Meme Jokes Crypto-Enthusiasts Are Actually Buying Lamborghinis  #Bitcoin '	p
+b'Markets Update: Cryptocurrencies Start Forming a Well Defined Uptrend  #Bitcoin '	p
+b'Physical Bitcoin Mining Hardware Store Bitmart Opens in South Africa  #Bitcoin '	p
+b'Venezuela Found Foreign Investors for Petro Cryptocurrency Pre-Sale Starting This Month  '	p
+b'Korean Prime Minister: Closing Down Crypto Exchanges Not a Serious Consideration  #Bitcoin '	p
+b'Australian High School to Host Information Night on Cryptocurrencies  #Bitcoin '	p
+b'Leading Australian Banks Allow Customers to Purchase Cryptocurrencies  #Bitcoin '	p
+b'No Strong Case to Ban Crypto Trading, Singapore Says  #Bitcoin '	p
+b'Venezuela Invites OPEC Countries to Jointly Develop Oil-Backed Crypto Platform  #Bitcoin '	p
+b'Black Monday Shows Bitcoin Isn t As Dangerous As Regulators Claim  #Bitcoin '	p
+b'New York Wants a Piece of the Ever Growing Bitcoin Mining Pie  #Bitcoin '	p
+b'Cryptocurrencies Are Pushing Semiconductor Innovation and Profits  #Bitcoin '	p
+b'Roboforex Adds Bitcoin Cash and Three Other Cryptocurrency CFDs for Trading  #Bitcoin '	p
+b' introduces the new Buy Bitcoin Cash Portal  #bch #bitcoincash '	p
+b'International Market Maintains Demand for Chinese Cryptocurrency Mining Hardware  #Bitcoin '	p
+b'Japan s Leading Low-Cost Airline Clarifies Plan to Accept Bitcoin  #Bitcoin '	p
+b'Crowdfire Founders Plan to Launch Indian Bitcoin Exchange  #Bitcoin '	p
+b'Another Post-Soviet Jurisdiction Welcomes Crypto Miners  #Bitcoin '	p
+b'Popular Chinese Firm Cheetah Mobile Launches Crypto-Wallet  #Bitcoin '	p
+b'The Cryptocurrency Markets Are Having an Interesting Week  #Bitcoin '	p
+b'Bank of Russia Allows Crypto Mining But Proposes Miners Sell Their Coins Overseas  #Bitcoin '	p
+b'AMD Increases GPU Production to Match Crypto Mining Demand  #Bitcoin '	p
+b"Rapper 50 Cent embraced Bitcoin to sell his album in 2014, now reaps the benefits! Hear the story on 'THIS WEEK IN "	p
+b'Mobile Payment Company Square Launches In-app Bitcoin Buy/Sell Option  #Bitcoin '	p
+b'Japan s Most Popular Chat App Launching Cryptocurrency Exchange  #Bitcoin '	p
+b'South Korean Court Rules Bitcoin Has Economic Value  #Bitcoin '	p
+b'Number of People Looking for Crypto-Careers Increased 10-Fold in 2017  #Bitcoin '	p
+ Propy Launches the First Pilot in the US for Blockchain Land Registry  #Bitcoin '	p
+b'University College London Fights CV Fraud via Bitcoin Verification  #Bitcoin '	p
+ DocCoin Announces Pre-ICO for Blockchain Protocol Telehealth Services  #Bitcoin '	p
+b'Bitcoin Futures Report Shows Bullish Sentiment Is In the Air  #Bitcoin '	p
+b'Lawyers Are Taking Payment in Bitcoin Despite Conflict of Interest Concerns  #Bitcoin '	p
+b'Australian Gold Refinery Announces Plan to Develop Cryptocurrency  #Bitcoin '	p
+b'Fintech Company Mogo Plans to Launch Bitcoin Mine in British Columbia  #Bitcoin '	p
+b'Bank of Japan: No Big Problems With Bitcoin So Far  #Bitcoin '	p
+b'Malta Extends Scope of Proposed Virtual Currency Regulations  #Bitcoin '	p
+b'FX Platform Integral Now Covers Bitcoin, BCH and a Dozen More Cryptocurrencies  #Bitcoin '	p
+b'Brisbane Airport to Introduce Bitcoin Payments  #Bitcoin '	p
+b'57 Ukrainian Officials Declared Over 21,000 Bitcoins  #Bitcoin '	p
+b'Oil Company Wants to Sell Bitcoin ATMs to Casinos, Stock Jumps 60%  #Bitcoin '	p
+b'3,000 Metric Tons of Wheat Was Recently Traded for Bitcoin  #Bitcoin '	p
+ GymCoin Announces First Fitness ICO That Allows Digital Currency to Be Accepted at Gyms Worldwide '	p
+b'Church in Z rich Accepts Donations in Bitcoin, BCH, Ether, Ripple and Stellar  @icfzurich '	p
+b'Markets Update: Cryptocurrencies Try to Regain Strength After the Recent Dip  #Bitcoin '	p
+b'Bitflyer Launches in Europe Now Licensed on Three Continents  #Bitcoin '	p
+b'Tax Loophole Closing For South Korean Cryptocurrency Exchanges  #Bitcoin '	p
+b'There Are At Least Twice as Many Bitcoin Traders in Brazil as Stock Investors  #Bitcoin '	p
+b'Samourai Wallet Introduces Bitcoin via SMS Text Message for Censorship Resistance  #Bitcoin '	p
+b'More than Half of Russians Know About Bitcoin Now  #Bitcoin '	p
+ Game Machine Game Investments That Connect to the Cryptoworld  #Bitcoin '	p
+ Retail Conglomerate Launches Online Mall Accepting Only MegaX and Bitcoin Cash  #Bitcoin '	p
+b'Lots of Optimism at the Miami Bitcoin Conference This Week  #Bitcoin '	p
+b'Russia Ready for Migrant Bitcoin Miners Influx  #Bitcoin '	p
+b'Commission Income From Crypto Accounts Jumped 36 Times for South Korean Banks  #Bitcoin '	p
+b'Wall Street Creates Global Cryptocurrency Data Feed  #Bitcoin '	p
+b'Overwhelmed Cryptocurrency Exchanges Are Hiring Staff by the Hundreds  #Bitcoin '	p
+b'Chip Giant TSMC Expects Strong Demand for Cryptocurrency Mining to Continue  #Bitcoin '	p
+b'Cryptocurrency Activities Will Be Legal and Tax Free in Belarus Starting in March  #Bitcoin '	p
+b'St. Louis Federal Reserve Reps in Favor of Cryptocurrencies  #Bitcoin '	p
+b'Despite Regulations, One South Korean Crypto Exchange Rises to the Global Top  #Bitcoin '	p
+b'Businessman Outright Buys Two Electric Power Stations to Do Bitcoin Mining in Russia  '	p
+b'Metropolitan Bank Denies Ceasing Cryptocurrency-Related International Wires  #Bitcoin '	p
+b'Cryptocurrency App Users Increase 14-Fold in South Korea  #Bitcoin '	p
+b'Japan s Largest Bank to Launch Cryptocurrency Exchange  #Bitcoin '	p
+b'Google Search Volume for Bitcoin Keywords Increased by as Much as 1000% During 2017  #Bitcoin '	p
+b'Moscow Exchange Ready for Fast and Easy Crypto Trading  #Bitcoin '	p
+b'Telegram Followers The New Metric for Cryptocurrency Success  #Bitcoin '	p
+b'Venezuela Urges 10 Other Countries to Adopt Its Oil-Backed Cryptocurrency  #Bitcoin '	p
+b'Small Washington Town is Becoming a Bitcoin Mining Epicenter  #Bitcoin '	p
+b'Six Months Later Bitcoin Cash Support Continues to Grow  #Bitcoin '	p
+b'Calls for Legal Bitcoin in Ukraine, as Natsbank Mulls E-Fiat  #Bitcoin '	p
+b'Japan s Virtual Currency Girls Idol Group Performs First Crypto Educational Concert  '	p
+b'Canadian Entrepreneur Seeks to Recycle Heat Generated by Cryptocurrency Mining  #Bitcoin '	p
+b'Ditch University and High Transaction Fees Praxis Accepts Bitcoin Cash  #Bitcoin '	p
+b'Kentucky Fried Chicken Canada Launches Bitcoin Bucket  #Bitcoin '	p
+b"RT @rogerkver: I'm glad to become an advisor for , a company building the world's first blockchain based spend management system."	p
+b'RT @MateTokay: I am excited to join the  advisory board. Main Sale starts Today. @aXpire_official'	p
+b'Russia Drafts Bill to Legalize Cryptocurrency Trading on Approved Exchanges  #Bitcoin '	p
+b'Japan s Most Popular Chat App In Talks to Integrate Cryptocurrencies  #Bitcoin '	p
+b'Bitcoin Becomes A Trendy Way to Buy New Homes  #Bitcoin '	p
+b'VPN Provider Now Accepts Lightning Network Payments  #Bitcoin '	p
+b'Japan s Fisco Launching Cryptocurrency Fund Derivatives Products to Follow  #Bitcoin '	p
+b'Microsoft Press Office: We ve Restored Bitcoin as a Payment Option  #Bitcoin '	p
+b'Thailand s Regulators Allow Bitcoin Futures Trading  #Bitcoin '	p
+b'5000 MW to Spare CEO of Hydro-Qu Bec Wants to Attract Cryptocurrency Miners  #Bitcoin '	p
+b'Iranian Banker Calls for Cryptocurrency Acceptance  #Bitcoin '	p
+b'Aerospace Engineer Uses Bitcoin Cash to Buy $415,000 Home in Seattle  #Bitcoin '	p
+b'Vermont Senator Proposes Digital Currency Tax Legislation  #Bitcoin '	p
+b'Bitcoin Adoption Continues to Thrive Within Africa s Borders  #Bitcoin '	p
+b'Cryptocurrency Hedge Fund Headed by Ex-Goldman Sachs VP Raises $140 Million  #Bitcoin '	p
+b'People Selling Fully Verified Crypto-Exchange Accounts On the Rise  #Bitcoin '	p
+b'Local Bitcoin Meetups Are Booming Worldwide  #Bitcoin '	p
+b'Finance Guru James Altucher Is Launching a Cryptocurrency Exchange  #Bitcoin '	p
+b'Iranian Bitcoin Adoption Surges Amid Political Protests and Censorship  #Bitcoin '	p
+b'Canadians Harness Wind to Mine Bitcoin in Romania  #Bitcoin '	p
+b'Fantasy Football Giant Fanduel Launches Bitcoin Bowl Contest  #Bitcoin '	p
+b'BTCC Founder Positive the PBOC Will Remove China s Exchange Ban  #Bitcoin '	p
+b'Total Capitalization of the Crypto Markets Now Exceeds $750 Billion  #Bitcoin '	p
+b'These Dutch Researchers Are Mining Cryptocurrencies With Body Heat  #Bitcoin '	p
+b'Austrian Brokerage Service Bitpanda Adds Full Bitcoin Cash Integration  #Bitcoin '	p
+b'African Holding Company VP Urges Central Bank to Buy Bitcoin and Ditch Dollar  #Bitcoin '	p
+b'We ve Come A Long Way Bitcoin Block Zero Was Born Nine Years Ago Today  #Bitcoin '	p
+b'Gavin Andresen Drops A New Concept On Github for Bitcoin Cash  #Bitcoin '	p
+b'Community-Focused Exchanges with Proprietary Tokens Are Prospering  #Bitcoin '	p
+b'Putin Wants to Use Cryptoruble to Evade Sanctions But Bank of Russia Skeptical  #Bitcoin '	p
+b'Bitcoin Adoption in Africa Hinders EAC Plans for a Unified Currency  #Bitcoin '	p
+b'Markets Update: Cryptocurrencies See Big Gains After New Year s Day  #Bitcoin '	p
+ The Segwit 2x Fork Has Been Successfully Launched on December 28th  #Bitcoin '	p
+b'Bitcoin Cash Used to Pay for Music Records, Gift Cards, Plastic Surgery  #Bitcoin '	p
+b'ICOs Raise Over $1 Billion in a Month for the First Time  #Bitcoin '	p
+b'Koreans Deposited 64 Times More Fiat Into Crypto Exchanges in 2017  #Bitcoin '	p
+b'The Bitcoin Exchange That Once Dominated China Is Heading to Japan  #Bitcoin '	p
+b'Japan s GDP Grows Due to Bitcoin Wealth Effect  #Bitcoin '	p
+b'Venezuela Unveils Mining, Trading, and Launch Details of National Cryptocurrency  #Bitcoin '	p
+b'Pineapple Fund Donates $5 Million in Bitcoin as Seed Capital for the Poor  #Bitcoin '	p
+ Cryptocurrencies Are Now Instantly Spendable with MoxyOne s White Labelled Debit Cards  '	p
+b'CME Launches Bitcoin Futures Trading Simulator  #Bitcoin '	p
+b'Global P2P Crypto Markets Experience Record Volume Throughout December  #Bitcoin '	p
+b'Ripple Gains 1,000% in One Month Now the Second Largest Cryptocurrency  #Bitcoin '	p
+ Prediction Markets Delphy Announces International Expansion  #Bitcoin '	p
+b'Surveys: 73% of Russians Will Increase Crypto Investments  #Bitcoin '	p
+b'Japan Approves New Bitcoin Exchange as Adoption Grows and Peers Expand Overseas  #Bitcoin '	p
+ Propy s New Launch: It Is Now Possible to Buy Properties in the US for Bitcoin  #Bitcoin '	p
+b'Market Update: BTC Value Consolidates After Bouncing  #Bitcoin '	p
+b'The North American Bitcoin Conference Returns to Miami Bigger Than Ever  #Bitcoin '	p
+b'Indian Entrepreneurs Rush to Launch Crypto Companies Following Bitcoin Boom  #Bitcoin '	p
+b'Markets Update: Deflated Digital Asset Prices Bounce Back  #Bitcoin '	p
+b'Hit BTC Introduces Deposit Charges to Deal With High Bitcoin Fees  #Bitcoin '	p
+b'UK Garbageman Now Accepts Bitcoin Payments  #Bitcoin '	p
+b'China s Bruno Wu Takes Controlling Interest in Licensed US Crypto Exchange  #Bitcoin '	p
+b'Iced Tea Firm s Shares Quadruple After Changing Name to Long Blockchain Corporation  '	p
+b'Belarus Legalizes Cryptocurrencies and ICOs Tax-Free for Five Years  #Bitcoin '	p
+b'Indian Couple Asked to Be Gifted Bitcoin at Wedding  #Bitcoin '	p
+b'Wikileaks Founder Responds to Banking Blockade : Use Cryptocurrencies  #Bitcoin '	p
+b'7 Million Transactions a Second  '	p
+b'These Are The Five Cheapest US States for Bitcoin Mining  #Bitcoin '	p
+b'Japanese Internet Giant GMO Launches Bitcoin Mining Business  #Bitcoin '	p
+b'Nigeria Experiences Spike in Bitcoin Adoption  #Bitcoin '	p
+b'Bitcoin And Mining Dominate Google Searches as Ukraine Closes in on Legalisation  '	p
+b'Bitcoin Cash Jumps 70% as Coinbase and Gdax Announce Immediate Trading  #Bitcoin '	p
+b'2018 Pyeongchang United States Olympic Luge Team to Accept Bitcoin Donations  #Bitcoin '	p
+b'Fake Satoshi Dorian Nakamoto is Probably $273,000 Richer After Selling His Bitcoins  '	p
+b'Markets Update: Several Coins Surging as Crypto-Economy Value Tops $600 Billion  #Bitcoin '	p
+b'Major Japanese Automotive Group and Dealerships Embracing Bitcoin  #Bitcoin '	p
+b'Hong Kong Investors Rush to Enter the Bitcoin Markets  #Bitcoin '	p
+b'Japanese Investors Increasingly Switching From Traditional FX Trading to Bitcoin  #Bitcoin '	p
+b'Bitcoin s Market Cap Surpasses the IMF s Special Drawing Rights Reserves  #Bitcoin '	p
+b'Bitcoin s Price Captures a New High Touching $18,000  #Bitcoin '	p
+b'Bitpay Plans to Use Bitcoin Cash for Payment Invoices and Debit Loads  #Bitcoin '	p
+b'Malaysia Issues Proposed Digital Currency Regulations for Public Review  #Bitcoin '	p
+b'Korean Regulation Fails to Shake Bitcoin Market But Could Wipe Out Some Exchanges  #Bitcoin '	p
+b'Venezuelans Turn to Bitcoin as Government Crackdown on Mining Intensifies  #Bitcoin '	p
+b'Putin Aide Says Bitcoin Can Help Russia Bypass Financial Sanctions  #Bitcoin '	p
+b'Trezor Firmware Update Brings Shorter Addresses and Support for More Tokens  #Bitcoin '	p
+b'Israeli PM Netanyahu Says Bitcoin Is Rising as Banks Are Destined to Disappear  #Bitcoin '	p
+b'It s Official: Bitcoin Was Bigger Than North Korea and the Eclipse This Year  #Bitcoin '	p
+b'The  Wallet Celebrates a Million Downloads This Week  #Bitcoin '	p
+b'Chinese Whale Buys Fleet of F1 Cars Worth 4 Million with Litecoin  #Bitcoin '	p
+b' Bitcoin Futures Markets Pump Up ETF Optimism  #Bitcoin '	p
+b' Shares Skyrocket as Morgan Stanley Buys Passive Stake in Bitcoin-Friendly Company '	p
+b'Americans Are Taking Out Mortgages to Buy Bitcoin  #Bitcoin '	p
+b'Precious Metals Dealer Apmex Now Accepts Bitcoin for Purchases  #Bitcoin '	p
+b'Lamassu Adds Bitcoin Cash Giving BCH More ATM Support  #Bitcoin '	p
+b'Bulgarian Exchange  to Resume Trading on Monday  #Bitcoin '	p
+b'Despite What Politicians Say Terrorists Don t Use Bitcoin  #Bitcoin '	p
+ Privacy Coin Ditcoin Launches It s ICO  #Bitcoin '	p
+b'Yahoo Finance App Users Can Now Track Their Bitcoin Balance at Coinbase  #Bitcoin '	p
+b'Bitcoin Price Reaches Another Peak Crossing $15,000  #Bitcoin '	p
+b'Russian Presidential Candidate: We Will Legalize Bitcoin and Other Cryptocurrencies  '	p
+b'Surf Air Joins the Growing List of Private Airlines Accepting Bitcoin  #Bitcoin '	p
+b'Bitcoin Rockets Past $14,000 Astonishing Everyone  #Bitcoin '	p
+b'This Gold Dealer Is Now Selling More Bitcoin Than Precious Metals  #Bitcoin '	p
+b'Apple Pay Cash Launches as Users and Developers Turn to Bitcoin  #Bitcoin '	p
+b'Markets Show Relentless Energy As the Price of Bitcoin Exceeds $13,000  #Bitcoin '	p
+b'Tim Draper Advises Argentina s President to Invest in Bitcoin  #Bitcoin '	p
+b'Salt and Coinloan Promise Crypto-Asset Backed Fiat Loans  #Bitcoin '	p
+b'South African Drivers Can Now Pay Traffic Fines in Bitcoin  #Bitcoin '	p
+b'This Bulgarian Business School Offers Bitcoin Scholarships  #Bitcoin '	p
+b'Bitfury is Building the Largest Bitcoin Mining Operation in North America  #Bitcoin '	p
+b'Israeli Regulator: We Need to Welcome Cryptocurrency to Develop International ICO Hub  '	p
+b'Despite Warnings China s Over the Counter Bitcoin Economy Is Booming  #Bitcoin '	p
+b'Venezuela Announces the Creation of Oil-Backed National Cryptocurrency the Petro  #Petro '	p
+b'UK Ministry of Treasury Plans to Regulate Bitcoin  #Bitcoin '	p
+b'Localbitcoins Markets Set Record Trading Volume  #Bitcoin '	p
+b'Gold Mining Company s Shares Jump 1,300% After Switch to Bitcoin  #Bitcoin '	p
+b'Coinsource Adds 18 Bitcoin ATMs in Atlanta, Among Ten Most Unbanked US Cities  #Bitcoin '	p
+b'Japan Increases Lead Approves Another Four New Cryptocurrency Exchanges  #Bitcoin '	p
+b'Markets Update: Global Bitcoin Prices Exceed $11,800  #Bitcoin '	p
+b'Bitcoin Cash Network Status: Transactions On the Rise  #Bitcoin '	p
+b'Bitcoin-Related Job Postings Have Spiked on Linkedin and Upwork  #Bitcoin '	p
+b'CME Rival Cboe Suggests its Coming Futures Market Would Include Bitcoin Cash  #Bitcoin '	p
+b'This Ukrainian Shipping Firm is Using Bitcoin to Evade Sanctions  #Bitcoin '	p
+ Exmo Cryptocurrency Platform to Launch Margin Loans with the Power of Crowdsale  #Bitcoin '	p
+b'India s Bitcoin Fever Sees Trade Volumes and Exchange Sign-ups Spike  #Bitcoin '	p
+ Truckcoin, the Fastest Payment Processing Cryptocurrency ICO Is Finally Here  #Bitcoin '	p
+b'How to Protect Your Bitcoin and Your Privacy When Passing Through Customs  #Bitcoin '	p
+b'No Regulation Needed Moscow Stock Exchange Plans to Trade Bitcoin Futures  #Bitcoin '	p
+b'Egypt Finance Attorney General Calls for International Governance of Bitcoin  #Bitcoin '	p
+b'White House Monitoring The Situation While Study Shows Illicit Use of Bitcoin Has Dropped  '	p
+b'NYU Plans to Launch an Undergraduate Course in Cryptocurrencies  #Bitcoin '	p
+b'This Week s All-Time High Brings Massive Bitcoin Exchange Outages  #Bitcoin '	p
+b'Big Four Firm PwC s Hong Kong Office Accepts Bitcoin  #Bitcoin '	p
+b'Libra Launches Enterprise Grade Tax and Accounting App Crypto Office  #Bitcoin '	p
+b'Circle Financial Plans to Launch a New Investment App Next Year  #Bitcoin '	p
+b'Markets Update: Bitcoin s Price Jumps to an All-Time High Above $11,300  #Bitcoin '	p
+b'1 Million Yen, 100 Million INR Bitcoin Sets New Price Milestones on International Markets  '	p
+b'New All Time High A Single Bitcoin is Now Worth $10,000  #Bitcoin '	p
+b'The Cryptocurrency Market Cap Trends Higher Commanding $300Bn This Week  #bitcoinnews '	p
+b'Bitcoin Use in Iran Welcomed by Nation s High Council of Cyberspace  #Bitcoin '	p
+b'After Mugabe, Zimbabwe Pushes Bitcoin to $17,875  #Bitcoin '	p
+b'The Cryptocurrency Market Cap Trends Higher Commanding $300Bn This Week  #Bitcoin '	p
+ New Wallet Rahakott Will Make the Cryptocurrency World More Accessible  #Bitcoin '	p
+b'Paxful to Help Fund 100 Schools in Africa #BuiltWithBitcoin  #Bitcoin '	p
+b'South Korea s Largest Underground Mall Adds Bitcoin Payments to 620 Stores  #Bitcoin '	p
+b'Icy Wallet for the Blind is Part of the Inclusive Spirit of Bitcoin  #Bitcoin '	p
+b'Bitcoin Touches a Milestone Price of $9K Across Global Exchanges  #Bitcoin '	p
+b'This Week in Bitcoin: Record Highs, Bankers Pile In, and a Wild Dragonmint Appears  #Bitcoin '	p
+b'Crypto s Revolutionary Moment? Catalonia Referendum Allegedly Funded by Bitcoin  #Bitcoin '	p
+b'North Korean Citizens Study Cryptocurrencies at Pyongyang University  #Bitcoin '	p
+b'Payment Provider Billdesk Creates New Indian Crypto-Exchange  #Bitcoin '	p
+b'Markets Update: Bitcoin Bulls Push the Price Above $8600  #Bitcoin '	p
+b'Swiss National Bank Chairman on Crypto: Central Banks Are Working on This Very Intensively '	p
+
